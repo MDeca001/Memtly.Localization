@@ -12,7 +12,7 @@
     <PackageId>Memtly.Localization</PackageId>
     <Authors>Memtly</Authors>
     <Description>Language pack used by Memtly for display</Description>
-    <PackageIcon>Icon.png</PackageIcon>
+    <PackageIcon>Memtly.png</PackageIcon>
     <IsPackable>true</IsPackable>
   </PropertyGroup>
 
