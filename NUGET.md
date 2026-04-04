@@ -1,4 +1,4 @@
-## Memtly.Localization
+# Memtly.Localization
 
 This repo contains language packs that are used by the core to translate the frontend UI into different cultures.
 
