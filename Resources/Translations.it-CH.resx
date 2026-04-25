@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>L'indirizzo email degli utenti</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Il primo nome dell'utente</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Password e conferma password non corrispondono</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Si prega di specificare un indirizzo email valido</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Si prega di specificare un nome valido</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Si prega di specificare un cognome valido</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Il livello utente selezionato non è valido</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Si prega di specificare un nome utente valido</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Si prega di specificare una password utente valida</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Il livello pagato selezionato è invalido</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Si prega di specificare un nome utente valido</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Cognome</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>L'ultimo nome dell'utente</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Livello</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>L'id dell'utente non può essere vuoto</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Il nome utente non può essere vuoto</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Nome utente</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Aggiungi utente con lo stesso nome già esiste</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Il nome utente del nuovo utente</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Non è possibile trovare l'utente specificato</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Gli utenti hanno pagato</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Nome utente</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Aggiungi utente con lo stesso nome già esiste</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Il nome utente dell'utente</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nome utente</value>

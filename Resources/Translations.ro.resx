@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Adresa de email a utilizatorilor</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Prenume</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Prenumele utilizatorului</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Parola și confirma parola nu se potrivesc</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Vă rugăm să specificați o adresă de e-mail validă</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Vă rugăm să precizați un prenume valid</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Vă rugăm să precizați un nume de familie valabil</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Nivelul de utilizator selectat este invalid</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Vă rugăm să specificați un nume de utilizator valabil</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Vă rugăm să specificați o parolă de utilizator validă</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Nivelul plătit selectat este invalid</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Vă rugăm să specificați un nume de utilizator valid</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Nume</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Numele de familie al utilizatorului</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivel</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Utilizator Nu poate fi gol</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Numele utilizatorului nu poate fi gol</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Nume utilizator</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Adaugă utilizator cu același nume există deja</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Utilizatorul noului utilizator</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nu am putut găsi utilizatorul specificat</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Utilizatorii au plătit nivelul</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Nume utilizator</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Adaugă utilizator cu același nume există deja</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Numele utilizatorului</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nume utilizator</value>

@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>用户电子邮件地址</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>用户名</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>密码和确认密码不符</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>请指定一个有效的电子邮件地址</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>请指定一个有效的名</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>请指定一个有效的姓氏</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>选中的用户级别无效</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>请指定一个有效的用户名</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>请指定有效的用户密码</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>选中的付费等级无效</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>请指定一个有效的用户名</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>姓</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>用户名</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>职等</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>用户 无法为空</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>用户名不能为空</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>用户名</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>添加同名用户已存在</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>新用户的用户名</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>找不到指定的用户</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>用户付费等级</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>用户名</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>添加同名用户已存在</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>用户名</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>用户名</value>

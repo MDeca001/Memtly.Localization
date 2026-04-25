@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Käyttäjän sähköpostiosoite</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Etunimi</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Käyttäjän etunimi</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Salasana ja vahvista salasana ei täsmää</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Määrittele voimassa oleva sähköpostiosoite</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Määrittele kelvollinen etunimi</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Määrittele kelvollinen sukunimi</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Valittu käyttäjätaso on virheellinen</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Määrittele kelvollinen käyttäjäname</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Määrittele voimassa oleva käyttäjän salasana</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Valittu maksettu taso on virheellinen</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Määrittele kelvollinen käyttäjänimi</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Sukunimi</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Käyttäjän sukunimi</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Taso</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Käyttäjä Id ei voi olla tyhjä</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Käyttäjäname ei voi olla tyhjä</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Käyttäjätunnus</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Lisää sama käyttäjä jo olemassa</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Uuden käyttäjän käyttäjätunnus</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Määriteltyä käyttäjää ei löytynyt</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Käyttäjien maksama taso</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Käyttäjätunnus</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Lisää sama käyttäjä jo olemassa</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Käyttäjätunnus</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Käyttäjätunnus</value>

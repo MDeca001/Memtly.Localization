@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Brukerens e-postadresse</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Fornavn</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Fornavnet på brukeren</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Passord og bekrefte passord stemmer ikke</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Vennligst oppgi en gyldig e-postadresse</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Vennligst oppgi et gyldig fornavn</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Vennligst oppgi et gyldig etternavn</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Det valgte brukernivået er ugyldig</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Angi et gyldig brukernavn</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Vennligst oppgi et gyldig brukerpassord</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Det valgte betalte nivået er ugyldig</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Angi et gyldig brukernavn</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Etternavn</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Etternavnet på brukeren</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivå</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Bruker Id kan ikke være tomt</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Brukernavn kan ikke være tomt</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Brukernavn</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Legg til bruker med samme navn allerede eksisterer</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Brukernavnet til den nye brukeren</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kunne ikke finne den angitte brukeren</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Brukerne betalt nivå</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Brukernavn</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Legg til bruker med samme navn allerede eksisterer</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Brukernavnet til brukeren</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Brukernavn</value>

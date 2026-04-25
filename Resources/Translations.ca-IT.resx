@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>L' adreça de correu electrònic dels usuaris</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>El primer nom de l' usuari</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>La contrasenya i la confirmació de contrasenya no coincideixen</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Especifiqueu una adreça de correu vàlida</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Si us plau, especifiqueu un primer nom vàlid</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Si us plau, especifiqueu un cognom vàlid</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>El nivell d' usuari seleccionat no és vàlid</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Especifiqueu un nom d' usuari vàlid</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Si us plau, especifiqueu una contrasenya d' usuari vàlida</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>El tieador pagat seleccionat no és vàlid</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Especifiqueu un nom d' usuari vàlid</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Últim nom</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>L' últim nom de l' usuari</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivell</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Usuari No puc estar buida</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>El nom d' usuari no pot estar buit</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Nom d' usuari</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Afegeix usuari amb el mateix nom ja existeix</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>El nom d' usuari del nou</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>No s' ha pogut trobar l' usuari especificat</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Els usuaris van pagar la corbata</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Nom d' usuari</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Afegeix usuari amb el mateix nom ja existeix</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>El nom d' usuari</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nom d' usuari</value>

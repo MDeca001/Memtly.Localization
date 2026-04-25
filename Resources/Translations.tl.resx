@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Ang mga gumagamit ng email address</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Unang Pangalan</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Ang unangname ng gumagamit</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Ang password ay hindi katugma ng password</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Pakisuyong magtakda ng isang tanggap na adres ng email</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Pakisuyong magtakda ng isang tanggap na firstname</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Pakisuyong magtakda ng isang tanggap na apelyido</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Ang piniling antas ng gumagamit ay hindi tanggap</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Pakisuyong magtakda ng isang tanggap na pangalan</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Pakisuyong magtakda ng tanggap na password</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Ang piniling may bayad na andana ay walang bisa</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Pakisuyong magtakda ng isang tanggap na pangalan</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Huling Pangalan</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Ang apelyido ng gumagamit</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Bibelin</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>User Hindi maaaring walang laman ang Id</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Ang pangalan ng user ay hindi maaaring walang laman</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Pangalan</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Idagdag ang gumagamit na may kaparehong pangalan na umiiral na</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Pangalan ng bagong gumagamit</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Hindi makita ang espesipikong gumagamit</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Nagbayad ng andana ang mga gumagamit</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Pangalan</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Idagdag ang gumagamit na may kaparehong pangalan na umiiral na</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Pangalan ng gumagamit</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Pangalan</value>

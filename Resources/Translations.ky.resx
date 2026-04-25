@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Колдонуучулардын электрондук почта дареги</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Биринчи аты-жөнү</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Колдонуучунун аты-жөнү</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Пароль жана тастыктама сырсөз дал келбейт</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Сураныч, жарактуу электрондук почта дарегин көрсөтүңүз</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Сураныч, жарактуу фамилияны көрсөтүңүз</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Сураныч, жарактуу фамилияны көрсөтүңүз</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Тандалган колдонуучу деңгээли жараксыз</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Сураныч, жарактуу колдонуучунун атын көрсөтүңүз</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Сураныч, жарактуу колдонуучунун сырсөзүн көрсөтүңүз</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Тандалган акы төлөнүүчү деңгээл жараксыз</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Сураныч, жарактуу колдонуучунун атын көрсөтүңүз</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Фамилиянын аталышы</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Колдонуучунун фамилиясы</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Деңгээл деңгээли</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Колдонуучу Id бош болушу мүмкүн эмес</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Колдонуучунун аты бош болушу мүмкүн эмес</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Колдонуучунун аты-жөнү</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Ошол эле аталыштагы колдонуучуну кошуу</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Жаңы колдонуучунун колдонуучу аталышы</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Белгиленген колдонуучуну таба алган жок</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Колдонуучулар төлөгөн деңгээл</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Колдонуучунун аты-жөнү</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Ошол эле аталыштагы колдонуучуну кошуу</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Колдонуучунун аты-жөнү</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Колдонуучунун аты-жөнү</value>

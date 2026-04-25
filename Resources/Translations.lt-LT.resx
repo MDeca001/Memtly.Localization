@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Vartotojo el. pašto adresas</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>First name</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Pirmasis naudotojo vardas</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Slaptažodis ir patvirtinti slaptažodį nesutampa</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Prašome nurodyti galiojantį el. pašto adresą</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Prašome nurodyti galiojantį vardą</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Prašome nurodyti galiojantį last name</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>NAME OF TRANSLATORS</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Prašome nurodyti galiojantį naudotojo vardą</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Prašome nurodyti galiojantį vartotojo slaptažodį</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>NAME OF TRANSLATORS</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Prašome nurodyti galiojantį naudotojo vardą</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Lastname</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Vartotojo vardas</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Lygis</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Naudotojas Id negali būti tuščias</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Vartotojo vardas negali būti tuščias</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Vartotojo vardas</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Name</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Naujojo naudotojo vardas</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nepavyko rasti nurodyto naudotojo</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Našumas (tonomis darbuotojui)</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Vartotojo vardas</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Vartotojo vardas</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Vartotojo vardas</value>

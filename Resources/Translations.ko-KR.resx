@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>사용자 이메일 주소</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>사용자의 이름</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>비밀번호 및 비밀번호는 일치하지 않습니다</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>자주 묻는 질문</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>유효한 첫번째 이름을 지정하십시오</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>마지막 이름 지정</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>선택한 사용자 수준은 유효하지 않습니다</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>이용 약관</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>비밀번호</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>선택한 유료 계층은 무효</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>이용 약관</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>이름 *</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>사용자의 마지막 이름</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>1 단계</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>사용자 이름 나는 비어있을 수 없다</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>사용자 이름은 비어있을 수 없습니다</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>사용자 이름</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>같은 이름을 가진 사용자를 이미 존재합니다</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>새로운 사용자의 사용자 이름</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>지정된 사용자를 찾을 수 없습니다</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>사용자 유료 계층</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>사용자 이름</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>같은 이름을 가진 사용자를 이미 존재합니다</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>사용자의 이름</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>사용자 이름</value>

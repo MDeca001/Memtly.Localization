@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>عنوان البريد الإلكتروني للمستعملين</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>الاسم الأول</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>الاسم الأول للمستعمل</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>كلمة السر وتأكيد كلمة السر لا تتطابق</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>يرجى تحديد عنوان بريد إلكتروني صحيح</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>يرجى تحديد الاسم الأول الصحيح</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>يرجى تحديد الاسم الأخير الصحيح</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>مستوى المستعمل المختار غير صحيح</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>يرجى تحديد اسم المستخدم الصحيح</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>يرجى تحديد كلمة سر المستخدم الصحيحة</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>درجة الأجر المختار باطلة</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>يرجى تحديد اسم المستخدم الصحيح</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>الاسم الأخير</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>آخر اسم للمستعمل</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>الرتبة</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>مستخدم لا يمكن أن تكون فارغة</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>اسم المستخدم لا يمكن أن يكون فارغا</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>المستعمل</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>يضاف المستخدم الذي يحمل نفس الاسم موجود بالفعل</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>اسم المستخدم الجديد</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>لا يمكن العثور على المستخدم المحدد</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>المستعملون يدفعون أجرا</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>المستعمل</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>يضاف المستخدم الذي يحمل نفس الاسم موجود بالفعل</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>اسم المستخدم</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>المستعمل</value>

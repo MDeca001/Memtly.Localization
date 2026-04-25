@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Η διεύθυνση ηλεκτρονικού ταχυδρομείου των χρηστών</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Όνομα</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Το μικρό όνομα του χρήστη</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Κωδικός πρόσβασης και επιβεβαίωση ο κωδικός πρόσβασης δεν ταιριάζει</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Παρακαλώ προσδιορίστε μια έγκυρη διεύθυνση email</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Παρακαλώ προσδιορίστε ένα έγκυρο όνομα</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Παρακαλώ προσδιορίστε ένα έγκυρο επώνυμο</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Το επιλεγμένο επίπεδο χρήστη είναι άκυρο</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Παρακαλώ προσδιορίστε ένα έγκυρο όνομα χρήστη</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Παρακαλώ προσδιορίστε έναν έγκυρο κωδικό πρόσβασης χρήστη</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Η επιλεγμένη αμειβόμενη βαθμίδα είναι άκυρη</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Παρακαλώ προσδιορίστε ένα έγκυρο όνομα χρήστη</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Επώνυμο</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Το επώνυμο του χρήστη</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Επίπεδο</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Χρήστης Δεν μπορεί να είναι άδειο</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Το όνομα χρήστη δεν μπορεί να είναι κενό</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Όνομα χρήστη</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Προσθήκη χρήστη με το ίδιο όνομα υπάρχει ήδη</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Το όνομα χρήστη του νέου χρήστη</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Αδυναμία εύρεσης του καθορισμένου χρήστη</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Οι χρήστες πλήρωσαν την βαθμίδα</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Όνομα χρήστη</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Προσθήκη χρήστη με το ίδιο όνομα υπάρχει ήδη</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Το όνομα χρήστη του χρήστη</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Όνομα χρήστη</value>

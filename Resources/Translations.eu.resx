@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Erabiltzaileen helbide elektronikoa</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Lehen izena</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Erabiltzailearen izena</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Pasahitza eta pasahitza ez datoz bat</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Zehaztu baliozko helbide elektronikoa</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Zehaztu baliozko lehen izen bat</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Zehaztu baliozko abizena</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Hautatutako erabiltzaile-maila ez da baliozkoa</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Zehaztu baliozko erabiltzaile-izena</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Zehaztu baliozko erabiltzailearen pasahitza</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Hautatutako maila ez da baliozkoa</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Zehaztu baliozko erabiltzaile-izena</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Azken izena</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Erabiltzailearen azken izena</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Maila</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Erabiltzailea Id ezin da hutsik egon</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Erabiltzaile-izena ezin da hutsik egon</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Erabiltzaile-izena</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Gehitu izen bereko erabiltzailea badago lehendik ere</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Erabiltzaile berriaren erabiltzaile-izena</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Ezin izan da zehaztutako erabiltzailea aurkitu</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Erabiltzaileek maila ordaindu dute</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Erabiltzaile-izena</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Gehitu izen bereko erabiltzailea badago lehendik ere</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Erabiltzailearen izena</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Erabiltzaile-izena</value>

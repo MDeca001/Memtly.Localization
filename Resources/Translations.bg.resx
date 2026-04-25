@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Имейл адрес на потребителите</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Име</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Първото име на потребителя</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Парола и потвърждение на паролата не съвпадат</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Моля, посочете валиден имейл адрес</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Моля, посочете валидно име</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Моля, посочете валидно фамилно име</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Избраното потребителско ниво е невалидно</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Моля, посочете валидно потребителско име</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Моля, посочете валидна потребителска парола</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Избраното платено подреждане е невалидно</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Моля, посочете валидно потребителско име</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Фамилия</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Фамилията на потребителя</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Ниво</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Потребител Не може да е празен</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Потребителското име не може да бъде празно</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Потребител</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Добавяне на потребител със същото име вече съществува</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Потребителско име на новия потребител</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Не може да бъде открит посочения потребител</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Потребителите са платили подреждане</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Потребител</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Добавяне на потребител със същото име вече съществува</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Потребителско име на потребителя</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Потребител</value>

@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Alamat email pengguna</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Nama pertama</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Nama pertama pengguna</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Kata sandi tidak sama dengan kata sandi</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Sila nyatakan alamat emel yang sah</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Nama pertama yang sah</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Nama akhir yang sah</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Aras pengguna yang dipilih tidak sah</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Nama pengguna yang sah</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Nyatakan kata laluan pengguna yang sah</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Peniti berbayar yang dipilih tidak sah</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Nama pengguna yang sah</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Nama marga</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Nama terakhir pengguna</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Aras</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Pengguna Id tidak boleh kosong</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Nama pengguna uschine tidak boleh kosong</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Namapengguna</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Tambahkan pengguna dengan nama yang sama telah ada</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Nama pengguna baru</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Tak dapat mencari pengguna dinyatakan</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Para pengguna membayar tier</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Namapengguna</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Tambahkan pengguna dengan nama yang sama telah ada</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Nama pengguna</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Namapengguna</value>

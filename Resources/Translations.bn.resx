@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>ব্যবহারকারীর ই-মেইল ঠিকানা</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>নাম</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>ব্যবহারকারীর প্রথম নাম</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>পাসওয়ার্ড অত্যন্ত ছোট।</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>অনুগ্রহ করে একটি বৈধ ই-মেইল ঠিকানা নির্বাচন করুন</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>অনুগ্রহ করে একটি বৈধ নাম উল্লেখ করুন</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>অনুগ্রহ করে একটি বৈধ নাম উল্লেখ করুন</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>নির্বাচিত ব্যবহারকারী মাত্রা বৈধ নয়</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>অনুগ্রহ করে একটি বৈধ ব্যবহারকারীর নাম উল্লেখ করুন</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>অনুগ্রহ করে একটি বৈধ ব্যবহারকারীর নাম উল্লেখ করুন</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>নির্বাচিত টাকা টাইকারী বৈধ নয়</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>অনুগ্রহ করে একটি বৈধ ব্যবহারকারীর নাম উল্লেখ করুন</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>পদবি</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>ব্যবহারকারীর শেষ নাম</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>স্তর</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>ব্যবহারকারী ফাঁকা রাখা যাবে না</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>ব্যবহারকারীর নাম ফাঁকা রাখা যাবে না</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>ব্যবহারকারীর নাম</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>একই নামের একটি ফোল্ডার বর্তমানে উপস্থিত রয়েছে</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>নতুন ব্যবহারকারীর নাম</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>ব্যবহারকারীকে খুঁজে পাওয়া যায়নি</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>ব্যবহারকারীরা টাইগার করে</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>ব্যবহারকারীর নাম</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>একই নামের একটি ফোল্ডার বর্তমানে উপস্থিত রয়েছে</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>ব্যবহারকারীর নাম</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>ব্যবহারকারীর নাম</value>

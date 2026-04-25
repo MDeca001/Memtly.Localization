@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Адреса електронної пошти користувачів</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Ім'я</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Ім'я користувача</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Пароль і підтвердження пароля не відповідає</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Будь ласка, вкажіть дійсну адресу електронної пошти</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Будь ласка, вкажіть дійсне ім'я</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Будь ласка, вкажіть дійсне прізвище</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Вибраний рівень користувача недійсний</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Будь ласка, вкажіть ім'я користувача</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Введіть пароль</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Вибраний платний ярус недійсний</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Будь ласка, вкажіть ім'я користувача</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Ім'я</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Прізвище користувача</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Рівень</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Користувач Я не можу бути порожнім</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Ім'я користувача не може бути порожнім</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Ім'я користувача</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Додати користувача з такою назвою вже існує</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Ім'я користувача нового користувача</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Не знайдено вказаного користувача</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Користувачі оплачували ярус</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Ім'я користувача</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Додати користувача з такою назвою вже існує</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Ім'я користувача</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Ім'я користувача</value>

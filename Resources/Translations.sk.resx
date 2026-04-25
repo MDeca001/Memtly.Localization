@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>E-mailová adresa používateľov</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Meno</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Prvé meno užívateľa</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Heslo a potvrdenie hesla nezodpovedá</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Uveďte platnú e-mailovú adresu</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Uveďte platné meno</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Prosím zadajte platné priezvisko</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Zvolená úroveň užívateľa je neplatná</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Prosím zadajte platné užívateľské meno</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Zadajte platné užívateľské heslo</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Vybraná platená úroveň je neplatná</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Prosím zadajte platné užívateľské meno</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Priezvisko</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Priezvisko užívateľa</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Úroveň</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Užívateľ Id nemôže byť prázdny</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Užívateľské meno nemôže byť prázdne</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Užívateľské meno</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Pridať užívateľa s rovnakým názvom už existuje</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Meno nového užívateľa</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nepodarilo sa nájsť zadaného užívateľa</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>V súlade s článkom 2 ods. 7 základného nariadenia Komisia skúmala, či by zachovanie existujúcich opatrení bolo v záujme výrobného odvetvia Únie</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Užívateľské meno</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Pridať užívateľa s rovnakým názvom už existuje</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Užívateľské meno užívateľa</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Užívateľské meno</value>

@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>La uzantoj retpoŝta adreso</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Unua nomo</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>La unua nomo de la uzanto</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Pasvorto kaj konfirmi pasvorton ne egalas</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Bonvolu specifi validan retpoŝtan adreson</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Bonvolu specifi validan unuan nomon</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Bonvolu precizigi validan familian nomon</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>La elektita uzantnivelo estas malvalida</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Bonvolu specifi validan uzantnomon</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Bonvolu specifi valida uzanto pasvorton</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>La elektita pagita tavolo estas malvalida</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Bonvolu specifi validan uzantnomon</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Lasta nomo</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>La lasta nomo de la uzanto</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivelo</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Uzanta Uzanto Mi ne povas esti malplena</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Uzantnomo ne povas esti malplena</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Uzantnomo</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Aldoni uzanto kun la sama nomo jam ekzistas</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>La uzantnomo de la nova uzanto</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Oni ne povas trovi la specifitan uzanton</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>La uzantoj pagis tavolon</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Uzantnomo</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Aldoni uzanto kun la sama nomo jam ekzistas</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>La uzantnomo de la uzanto</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Uzantnomo</value>

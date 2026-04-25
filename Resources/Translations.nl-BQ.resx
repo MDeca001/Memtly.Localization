@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Het e-mailadres van de gebruikers</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Voornaam</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>De voornaam van de gebruiker</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Wachtwoord en wachtwoord bevestigen komen niet overeen</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Geef een geldig e-mailadres op</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Geef een geldige voornaam op</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Geef een geldige achternaam op</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Het geselecteerde gebruikersniveau is ongeldig</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Geef een geldige gebruikersnaam op</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Geef een geldig gebruikerswachtwoord op</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Het geselecteerde betaalde niveau is ongeldig</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Geef een geldige gebruikersnaam op</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Achternaam</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>De achternaam van de gebruiker</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Niveau</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Gebruiker Id kan niet leeg zijn</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Gebruikersnaam kan niet leeg zijn</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Gebruikersnaam</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Gebruiker met dezelfde naam toevoegen bestaat al</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>De gebruikersnaam van de nieuwe gebruiker</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kon de opgegeven gebruiker niet vinden</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>De gebruikers betaalde tier</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Gebruikersnaam</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Gebruiker met dezelfde naam toevoegen bestaat al</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>De gebruikersnaam van de gebruiker</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Gebruikersnaam</value>

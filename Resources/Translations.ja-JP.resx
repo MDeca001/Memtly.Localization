@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>ユーザーのメールアドレス</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>ファーストネーム</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>ユーザーの名前</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>パスワードを確認し、パスワードが一致しない</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>有効なメールアドレスを入力してください</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>有効な名前を入力してください</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>有効なファイル名を指定してください</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>選択したユーザーレベルが無効です</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>有効なユーザー名を入力してください</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>有効なユーザー名を入力してください</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>選択した有料ティアは無効です</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>有効なユーザー名を入力してください</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>メニュー</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>ユーザのLastname</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>レベル</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>ユーザー登録 空に入らない</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>ユーザー名は空にすることはできません</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>ユーザ名</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>既に存在する同じ名前でユーザーを追加</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>新しいユーザーのユーザー名</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>指定したユーザが見つからなかった</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>ユーザーの有料ティア</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>ユーザ名</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>既に存在する同じ名前でユーザーを追加</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>ユーザーのユーザー名</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>ユーザ名</value>

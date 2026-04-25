@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Name</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Tên</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Tên</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Mật khẩu và xác nhận mật khẩu không khớp</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Hãy xác định một địa chỉ thư điện tử hợp lệ</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Hãy ghi rõ một tên hợp lệ</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Hãy xác định tên họ hợp lệ</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Cấp người dùng đã chọn không hợp lệ</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Hãy ghi rõ một tên người dùng hợp lệ</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Hãy xác định một mật khẩu người dùng hợp lệ</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Bộ kiểm tra lương đã chọn không hợp lệ</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Hãy ghi rõ một tên người dùng hợp lệ</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Họ</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Tên cuối của người dùng</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Trình độ</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Người dùng Sẽ không thể trống rỗng</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Tên người dùng không thể rỗng</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Tên người dùng</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Thêm người dùng cùng tên đã có</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Tên người dùng mới</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Không tìm thấy người dùng đã xác định</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Người dùng trả tiền cho thanh toán</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Tên người dùng</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Thêm người dùng cùng tên đã có</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Tên người dùng</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Tên người dùng</value>

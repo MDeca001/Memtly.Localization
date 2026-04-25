@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>E- poštni naslov uporabnikov</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Ime</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Ime uporabnika</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Geslo in potrdi geslo se ne ujemata</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Prosimo, navedite veljaven e-poštni naslov</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Navedite veljavno ime</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Navedite veljaven priimek</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Izbrana uporabniška raven ni veljavna</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Prosimo, navedite veljavno uporabniško ime</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Prosimo, navedite veljavno uporabniško geslo</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Izbrana plačana stopnja ni veljavna</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Prosimo, navedite veljavno uporabniško ime</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Priimek</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Priimek uporabnika</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Stopnja</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Uporabnik Id ne more biti prazna</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Uporabniško ime ne more biti prazno</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Uporabniško ime</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Dodaj uporabnika z istim imenom že obstaja</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Uporabniško ime novega uporabnika</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Ni moč najti navedenega uporabnika</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Uporabniki so plačali stopnjo</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Uporabniško ime</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Dodaj uporabnika z istim imenom že obstaja</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Uporabniško ime uporabnika</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Uporabniško ime</value>

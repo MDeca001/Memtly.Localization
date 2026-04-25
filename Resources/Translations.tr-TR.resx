@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Kullanıcılar e-posta adresi</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Firstname</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Kullanıcının ilk adı</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Şifre ve şifreyi onaylayın</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Lütfen geçerli bir e-posta adresini belirtin</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Lütfen geçerli bir ilk adı belirtin</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Lütfen geçerli bir soyadı belirtin</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Seçilen kullanıcı seviyesi geçersizdir</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Lütfen geçerli bir kullanıcı adı belirt</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Lütfen geçerli bir kullanıcı şifresini belirtin</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Seçilen ücretli tier geçersizdir</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Lütfen geçerli bir kullanıcı adı belirt</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Lastname</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Kullanıcının son adı</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Seviye</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Kullanıcı Boş olamaz</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Kullanıcı adı boş olamaz</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Username</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Aynı adı olan kullanıcı ekle zaten var</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Yeni kullanıcı adı</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Belirtilen kullanıcıyı bulamadı</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Kullanıcılar tier ödedi</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Aynı adı olan kullanıcı ekle zaten var</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Kullanıcının adı</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>

@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>उपयोगकर्ता ईमेल पता</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>पहला नाम</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>उपयोगकर्ता का पहला नाम</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>पासवर्ड की पुष्टि करना</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>कृपया एक वैध ईमेल पता निर्दिष्ट करें</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>कृपया एक वैध पहला नाम निर्दिष्ट करें</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>कृपया एक वैध अंतिम नाम निर्दिष्ट करें</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>चयनित उपयोगकर्ता स्तर अमान्य है</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>कृपया एक वैध उपयोगकर्ता नाम निर्दिष्ट करें</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>कृपया एक वैध उपयोगकर्ता पासवर्ड निर्दिष्ट करें</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>चयनित वेतनमान अमान्य है</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>कृपया एक वैध उपयोगकर्ता नाम निर्दिष्ट करें</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>उपनाम</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>उपयोगकर्ता का अंतिम नाम</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>स्तर</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>उपयोगकर्ता आईडी खाली नहीं हो सकता</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>उपयोगकर्ता नाम खाली नहीं हो सकता</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>उपयोगकर्ता नाम</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>पहले से ही मौजूद समान नाम के साथ उपयोगकर्ता जोड़ें</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>नए उपयोगकर्ता का उपयोगकर्ता नाम</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>निर्दिष्ट उपयोगकर्ता को नहीं मिल सका</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>उपयोगकर्ताओं ने टायर का भुगतान किया</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>उपयोगकर्ता नाम</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>पहले से ही मौजूद समान नाम के साथ उपयोगकर्ता जोड़ें</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>उपयोगकर्ता का नाम</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>उपयोगकर्ता नाम</value>

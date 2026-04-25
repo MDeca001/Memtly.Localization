@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>صارفین ای میل پتہ</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>پهلا نام</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>صارف کا پہلا نام</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>پاس ورڈ اور تصدیق فراہم نہیں کی گئی</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>براہ راست ای میل پتہ متعین کریں</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>براہ مہربانی پہلے مناسب نام متعین کریں</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>برائے مہربانی آخری نام متعین کریں</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>منتخب صارف کی سطح غیر منصفانہ ہے۔</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>براہ راست صارف کا نام متعین کریں</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>براہ راست صارف پاس ورڈ متعین کریں</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>منتخب ادا کنندہ غیر قانونی ہوتا ہے۔</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>براہ راست صارف کا نام متعین کریں</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>آخری نام</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>صارف کا آخری نام</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>درجات</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>صا_رف محفوظ نہیں کیا جاسکتا</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>صارف کا نام خالی نہیں کیا جا سکتا</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>پرنٹ</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>صارف کو پہلے ہی موجود ہے</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>نیا صارف کا ما حاصل</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>طے شدہ صارف تلاش نہیں ہوسکتا</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>صارفین نے ٹائیگر ادا کیا</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>پرنٹ</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>صارف کو پہلے ہی موجود ہے</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>صارف کا صارف</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>پرنٹ</value>

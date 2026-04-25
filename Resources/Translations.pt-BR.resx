@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>O endereço de e-mail dos utilizadores</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Nome</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>O primeiro nome do usuário</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>As senhas não correspondem</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Por favor, especifique um endereço de email válido</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Por favor, especifique um primeiro nome válido</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Por favor, especifique um sobrenome válido</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>O nível de usuário selecionado é inválido</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Por favor, especifique um nome de usuário válido</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Por favor, especifique uma senha válida</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>O nível pago selecionado é inválido</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Por favor, especifique um nome de usuário válido</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Sobrenome</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>O sobrenome do usuário</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nível</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>O ID não pode ser vazio</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>O nome do usuário não pode estar vazio</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Nome de utilizador</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Adicionar usuário com o mesmo nome já existe</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>O nome de usuário do novo utilizador</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Não foi possível encontrar o usuário especificado</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Os usuários pagaram nível</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Nome de usuário</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Adicionar usuário com o mesmo nome já existe</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>O nome do usuário</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nome de utilizador</value>

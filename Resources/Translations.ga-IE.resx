@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Seoladh ríomhphoist na n-úsáideoirí</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Céadainm</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>An chéad ainm an úsáideora</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Pasfhocal agus a dhaingniú focal faire nach mheaitseáil</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Sonraigh seoladh ríomhphoist bailí</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Sonraigh céadainm bailí</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Sonraigh ainm bailí</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Tá an leibhéal úsáideora roghnaithe neamhbhailí</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Sonraigh ainm úsáideora bailí</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Sonraigh pasfhocal úsáideora bailí</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Tá an tsraith íoctha roghnaithe neamhbhailí</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Sonraigh ainm úsáideora bailí</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>An t-ainm deiridh</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Ainm deiridh an úsáideora</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Leibhéal</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Úsáideora Ní féidir liom a bheith folamh</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Ní féidir ainm úsáideora a bheith folamh</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Ainm úsáideora</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Cuir úsáideoir leis an ainm céanna ann cheana féin</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Ainm úsáideora an úsáideora nua</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Níorbh fhéidir teacht ar an úsáideoir sonraithe</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>D'íoc na húsáideoirí sraith</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Ainm úsáideora</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Cuir úsáideoir leis an ainm céanna ann cheana</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Ainm úsáideora an úsáideora</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Ainm úsáideora</value>

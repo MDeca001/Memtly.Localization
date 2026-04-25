@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>כתובת הדואר האלקטרוני של המשתמשים</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>שם ראשון</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>השם הראשון של המשתמש</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>סיסמה ומאשר סיסמה לא תואמת</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>נא לציין כתובת דואר אלקטרוני בתוקף</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>נא לציין שם ראשון חוקי</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>נא לציין שם אחרון בתוקף</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>רמת המשתמש שנבחרה אינה חוקית</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>נא לציין שם משתמש תקף</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>נא לציין סיסמה למשתמש תקף</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>השכבה בתשלום שנבחרה היא לא חוקית</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>נא לציין שם משתמש תקף</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>שם אחרון</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>השם האחרון של המשתמש</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>רמה</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>המשתמש משתמש לא יכול להיות ריק</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>שם המשתמש לא יכול להיות ריק</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>שם המשתמש</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>הוסף למשתמש עם אותו שם כבר קיים</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>שם המשתמש החדש</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>לא יכול למצוא את המשתמש שצוין</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>המשתמשים משלמים יותר</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>שם המשתמש</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>הוסף למשתמש עם אותו שם כבר קיים</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>שם המשתמש</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>שם המשתמש</value>

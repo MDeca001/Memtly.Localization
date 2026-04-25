@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Användarnas e-postadress</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Förstanamn</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Användarens förstanamn</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Lösenord och bekräfta lösenord matchar inte</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Ange en giltig e-postadress</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Ange ett giltigt förstanamn</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Ange ett giltigt sistanamn</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Den valda användarnivån är ogiltig</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Ange ett giltigt användarnamn</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Ange ett giltigt användarlösenord</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Den valda betalda nivån är ogiltig</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Ange ett giltigt användarnamn</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Lastname</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Användarens efternamn</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivå</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Användare Id kan inte vara tom</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Användarnamnet kan inte vara tomt</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Användarnamn</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Lägg till användare med samma namn redan finns</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Användarnamnet för den nya användaren</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Kunde inte hitta den angivna användaren</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Användarna betalade nivå</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Användarnamn</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Lägg till användare med samma namn redan finns</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Användarens användarnamn</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Användarnamn</value>

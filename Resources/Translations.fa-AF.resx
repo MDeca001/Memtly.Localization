@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>آدرس ایمیل کاربران</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>نام اول</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>نام اول کاربر</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>رمز عبور و تایید رمز عبور مطابقت ندارد</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>لطفا آدرس ایمیل معتبر را مشخص کنید</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>یک نام معتبر را مشخص کنید</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>یک نام معتبر را مشخص کنید</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>سطح کاربر انتخاب شده بی اعتبار است</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>لطفا نام کاربری معتبر را مشخص کنید</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>لطفا یک رمز عبور کاربر معتبر را مشخص کنید</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>لایه پرداخت شده انتخاب شده بی اعتبار است</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>لطفا نام کاربری معتبر را مشخص کنید</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>آخرین نام</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>آخرین نام کاربر</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>سطح</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>User User نمی توانم خالی باشم</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>نام کاربری نمی تواند خالی باشد</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Username</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>اضافه کردن کاربر با همان نام در حال حاضر وجود دارد</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>نام کاربری کاربر جدید</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>نمی تواند کاربر مشخص را پیدا کند</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>کاربران پرداخت tier</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>اضافه کردن کاربر با همان نام در حال حاضر وجود دارد</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>نام کاربری کاربر</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Username</value>

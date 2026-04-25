@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>A felhasználók e-mail címe</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Első név</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>A felhasználó első neve</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Jelszó és a jelszó megerősítése nem egyezik</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Adja meg az érvényes e-mail címet</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Adja meg az érvényes első nevet</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Kérjük, nevezzen meg egy érvényes last nevet</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>A kijelölt felhasználói szint érvénytelen</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Adja meg az érvényes felhasználónevet</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Adja meg az érvényes felhasználói jelszót</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>A kiválasztott fizetett szint érvénytelen</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Adja meg az érvényes felhasználónevet</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Név</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>A felhasználó utolsó neve</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Szint</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Felhasználó Nem lehet üres</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>A felhasználó neve nem lehet üres</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Felhasználónév</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Az azonos nevű felhasználó hozzáadása</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Az új felhasználó felhasználóneve</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nem található a megadott felhasználó</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Az uniós gazdasági ágazat értékesítési volumene és piaci részesedése</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Felhasználónév</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Az azonos nevű felhasználó hozzáadása</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>A felhasználó neve</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Felhasználónév</value>

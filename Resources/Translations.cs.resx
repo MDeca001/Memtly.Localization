@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Uživatelská e-mailová adresa</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>První jméno</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Jméno uživatele</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Heslo a potvrzení hesla nesouhlasí</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Uveďte prosím platnou e-mailovou adresu</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Prosím uveďte platné jméno</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Uveďte prosím platné příjmení</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Vybraná uživatelská úroveň je neplatná</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Uveďte prosím platné uživatelské jméno</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Zadejte prosím platné uživatelské heslo</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Vybraná placená úroveň je neplatná</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Uveďte prosím platné uživatelské jméno</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Jméno</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Poslední jméno uživatele</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Úroveň</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Uživatel Id nemůže být prázdný</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Uživatelské jméno nemůže být prázdné</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Uživatelské jméno</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Přidat uživatele se stejným názvem již existuje</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Uživatelské jméno nového uživatele</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Nelze najít zadaného uživatele</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Uživatelé zaplatili úroveň</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Uživatelské jméno</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Přidat uživatele se stejným jménem již existuje</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Uživatelské jméno uživatele</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Uživatelské jméno</value>

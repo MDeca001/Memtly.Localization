@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Enderezo de correo electrónico dos usuarios</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Primeiro nome</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>O primeiro nome do usuario</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Contrasinal e confirmar contrasinal non coinciden</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Indique un enderezo de correo electrónico válido</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Por favor, especifica un nome válido</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Indicar un apelido válido</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>O nivel de usuario seleccionado non é válido</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Indique un nome de usuario válido</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Por favor, especifica un contrasinal de usuario válido</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>O nivel de pago seleccionado é inválido</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Indique un nome de usuario válido</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Último nome</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Último nome do usuario</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Nivel</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Usuario Non se pode estar baleiro</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>O nome do usuario non pode estar baleiro</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Nome de usuario</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Engadir un usuario co mesmo nome xa existe</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Nome de usuario do novo usuario</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Non se atopou o usuario especificado</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Os usuarios pagan impostos</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Nome de usuario</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Engadir un usuario co mesmo nome xa existe</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Nome de usuario</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nome de usuario</value>

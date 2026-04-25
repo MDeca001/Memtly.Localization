@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Lietotāja e- pasta adrese</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Vārds</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Lietotāja vārds</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Parole un paroles apstiprināšana nesakrīt</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Lūdzu norādiet derīgu e- pasta adresi</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Lūdzu norādiet derīgu vārdu</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Lūdzu norādiet derīgu pēdējo vārdu</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Izvēlētais lietotāja līmenis nav derīgs</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Lūdzu norādiet derīgu lietotāja vārdu</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Lūdzu norādiet derīgu lietotāja paroli</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Izvēlētais apmaksātais līmenis nav derīgs</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Lūdzu norādiet derīgu lietotāja vārdu</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Uzvārds</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Lietotāja pēdējais vārds</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Līmenis</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Lietotājs Id nevar būt tukšs</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Lietotāja vārds nevar būt tukšs</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Lietotājvārds</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Pievienot lietotāju ar tādu pašu nosaukumu jau eksistē</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Jaunā lietotāja lietotājvārds</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Neizdevās atrast norādīto lietotāju</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Šis apgalvojums tika noraidīts</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Lietotājvārds</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Pievienot lietotāju ar tādu pašu nosaukumu jau eksistē</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Lietotāja lietotājvārds</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Lietotājvārds</value>

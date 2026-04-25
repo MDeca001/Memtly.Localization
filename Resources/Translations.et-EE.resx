@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Kasutajate e- posti aadress</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Eesnimi</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Kasutaja eesnimi</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Parool ja parooli kinnitamine ei klapi</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Palun määra korrektne e- posti aadress</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Palun määra kehtiv eesnimi</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Palun määra kehtiv perekonnanimi</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Valitud kasutajatase on vigane</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Palun määra sobiv kasutajanimi</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Palun määra kehtiv kasutaja parool</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Valitud tasuline tase on vigane</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Palun määra sobiv kasutajanimi</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Perekonnanimi</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Kasutaja perekonnanimi</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Tase</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Kasutaja Id ei saa olla tühi</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Kasutajanimi ei saa olla tühi</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Kasutajanimi</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Sama nimega kasutaja lisamine on juba olemas</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Uue kasutaja kasutajanimi</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Määratud kasutaja leidmine nurjus</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Kasutajad maksid määramistasandi</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Kasutajanimi</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Sama nimega kasutaja lisamine on juba olemas</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Kasutaja kasutajanimi</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Kasutajanimi</value>

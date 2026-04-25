@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>Alamat surel pengguna</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Nama Depan</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>Nama pertama pengguna</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Sandi dan konfirmasi tak cocok</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>Silakan nyatakan alamat surel yang valid</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Silakan nyatakan nama pertama yang valid</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Silakan nyatakan nama terakhir yang valid</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Tingkat pengguna yang dipilih tak valid</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Silakan nyatakan nama pengguna yang valid</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Silakan nyatakan sandi pengguna yang valid</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Tingkat dibayar yang dipilih tidak valid</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Silakan nyatakan nama pengguna yang valid</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Nama terakhir</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>Nama terakhir pengguna</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Tingkat</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Pengguna Id tidak dapat kosong</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>Nama pengguna tidak dapat kosong</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Nama pengguna</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Tambah pengguna dengan nama yang sama sudah ada</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Nama pengguna baru</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Tak bisa temukan pengguna yang dinyatakan</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Pengguna membayar tingkat</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Nama pengguna</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Tambah pengguna dengan nama yang sama sudah ada</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>Nama pengguna dari pengguna</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Nama pengguna</value>

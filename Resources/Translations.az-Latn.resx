@@ -2038,23 +2038,41 @@
   <data name="User_Email_Hint" xml:space="preserve">
     <value>İstifadəçilər e-poçt ünvanı</value>
   </data>
+  <data name="User_Firstname" xml:space="preserve">
+    <value>Tarix</value>
+  </data>
+  <data name="User_Firstname_Hint" xml:space="preserve">
+    <value>İstifadəçinin ilk adı</value>
+  </data>
   <data name="User_Invalid_CPassword" xml:space="preserve">
     <value>Qeydiyyatdan keçirmək</value>
   </data>
   <data name="User_Invalid_Email" xml:space="preserve">
     <value>E-poçt ünvanı</value>
   </data>
+  <data name="User_Invalid_Firstname" xml:space="preserve">
+    <value>Daxil ol</value>
+  </data>
+  <data name="User_Invalid_Lastname" xml:space="preserve">
+    <value>Daxil ol</value>
+  </data>
   <data name="User_Invalid_Level" xml:space="preserve">
     <value>Seçilmiş istifadəçi səviyyəsi qeyd olunur</value>
-  </data>
-  <data name="User_Invalid_Name" xml:space="preserve">
-    <value>Daxil ol</value>
   </data>
   <data name="User_Invalid_Password" xml:space="preserve">
     <value>Daxil ol</value>
   </data>
   <data name="User_Invalid_Tier" xml:space="preserve">
     <value>Seçilmiş qiymət tier qeyd edilir</value>
+  </data>
+  <data name="User_Invalid_Username" xml:space="preserve">
+    <value>Daxil ol</value>
+  </data>
+  <data name="User_Lastname" xml:space="preserve">
+    <value>Ad Soyad</value>
+  </data>
+  <data name="User_Lastname_Hint" xml:space="preserve">
+    <value>İstifadəçinin son adı</value>
   </data>
   <data name="User_Level" xml:space="preserve">
     <value>Qeydiyyat</value>
@@ -2064,18 +2082,6 @@
   </data>
   <data name="User_Missing_Id" xml:space="preserve">
     <value>Qadın Id boş deyil</value>
-  </data>
-  <data name="User_Missing_Name" xml:space="preserve">
-    <value>İstifadəçi adı boş deyil</value>
-  </data>
-  <data name="User_Name" xml:space="preserve">
-    <value>Ad Soyad</value>
-  </data>
-  <data name="User_Name_Already_Exists" xml:space="preserve">
-    <value>Hər hansı adı ilə istifadəçi edin</value>
-  </data>
-  <data name="User_Name_Hint" xml:space="preserve">
-    <value>Yeni istifadəçinin adı</value>
   </data>
   <data name="User_Not_Found" xml:space="preserve">
     <value>Qeyd edilmiş istifadəçi tapa bilər</value>
@@ -2091,6 +2097,15 @@
   </data>
   <data name="User_Tier_Hint" xml:space="preserve">
     <value>Istifadəçilər tier</value>
+  </data>
+  <data name="User_Username" xml:space="preserve">
+    <value>Ad Soyad</value>
+  </data>
+  <data name="User_Username_Already_Exists" xml:space="preserve">
+    <value>Hər hansı adı ilə istifadəçi edin</value>
+  </data>
+  <data name="User_Username_Hint" xml:space="preserve">
+    <value>İstifadəçinin adı</value>
   </data>
   <data name="Username" xml:space="preserve">
     <value>Ad Soyad</value>
