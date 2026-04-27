@@ -1624,6 +1624,15 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Uploadperiodes</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
+    <value>Moet de identificatienaam getoond worden in het keuzevakje van de galleryselector</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
+    <value>Galerij-identificatie tonen</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
+    <value>Moet de galerienaam getoond worden in het keuzevakje galerie</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Label" xml:space="preserve">
     <value>Galerijnamen tonen</value>
   </data>

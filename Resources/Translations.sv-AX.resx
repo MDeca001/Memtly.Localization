@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Uppladdningsperioder</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
+    <value>Om identitetsnamnet visas i galleriets väljarenedgång</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
+    <value>Visa Galleri Identifiers</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
     <value>Om gallerinamnet visas i galleriets väljarenedgång</value>
   </data>

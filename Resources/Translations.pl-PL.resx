@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Okresy wysyłania</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
+    <value>Jeżeli nazwa identyfikatora zostanie wyświetlona w rozwijanej galerii</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
+    <value>Pokaż identyfikatory galerii</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
     <value>Czy nazwa galerii powinna być wyświetlana w rozwijanym katalogu</value>
   </data>

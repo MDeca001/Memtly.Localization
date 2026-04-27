@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>دوره های آپلود</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
+    <value>اگر نام شناسه در انتخاب کننده گالری نمایش داده شود</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
+    <value>نمایش گالری IDrs</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
     <value>اگر نام گالری در انتخاب کننده گالری نمایش داده شود</value>
   </data>

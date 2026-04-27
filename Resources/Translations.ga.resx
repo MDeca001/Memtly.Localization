@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Tréimhsí Uaslódáil</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
+    <value>Ar chóir an t-ainm aitheantóir a chur ar taispeáint sa dropdown roghnóir gailearaí</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
+    <value>Taispeáin Gailearaí Aitheantóirí</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
     <value>Ba chóir an t-ainm gailearaí a chur ar taispeáint sa dropdown roghnóir gailearaí</value>
   </data>

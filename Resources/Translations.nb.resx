@@ -1624,6 +1624,9 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Last opp perioder</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
+    <value>Vis galleriidentifikatorer</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
     <value>Skulle galleriets navn vises i rullegardinen i galleriet</value>
   </data>

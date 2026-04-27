@@ -1624,6 +1624,12 @@
   <data name="Settings_Gallery_UploadPeriod_Label" xml:space="preserve">
     <value>Mga Panahong Nag - a - download</value>
   </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Help" xml:space="preserve">
+    <value>Kung ang kilalang pangalan ay itanghal sa gallery pilitor dropdown</value>
+  </data>
+  <data name="Settings_GallerySelector_ShowGalleryIdentifiers_Label" xml:space="preserve">
+    <value>Ipakita ang Gallery Identifiers</value>
+  </data>
   <data name="Settings_GallerySelector_ShowGalleryNames_Help" xml:space="preserve">
     <value>Kung ang pangalan sa galerya ay itanghal sa gallery pilitor dropdown</value>
   </data>
