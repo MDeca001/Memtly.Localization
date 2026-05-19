@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>کد</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>رنگ Overrides</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>تنظیمات مشترک</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>اشتباهات</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>تجربی</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>صادرات</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>نام گالری نمی تواند خالی باشد</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>رنگ پشت پرده</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>نام انگلیسی: Navbar Background</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>رنگ متن navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>نام بازی Navbar</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>ویژگی های جدید Pending Review</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>مقدماتی</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>رنگ اول پس زمینه مورد نظر در هوا</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>1 Hover background</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>رنگ سه پس زمینه اصلی بر روی شناور</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>3 Hover background</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>رنگ دو پس زمینه اصلی بر روی شناور</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2 Hover background</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>رنگ 1 پس زمینه اصلی</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>1 پس زمینه اولیه</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>رنگ سه پس زمینه اصلی</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>3 پس زمینه اولیه</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>رنگ دو پس زمینه اصلی</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>مقدماتی 2</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>رنگ یک متن اصلی</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>متن اول</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>رنگ 3 متن اصلی</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>3 متن مقدماتی</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>رنگ دو متن اصلی</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>مقدماتی 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>نام گالری های محافظت شده مجاز نیست. لطفا نام متفاوتی را امتحان کنید</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>جستجو</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>رنگ یک پس زمینه ثانویه بر روی شناور</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>ثانویه 1 Hover background</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>رنگ پس زمینه ثانویه 2 در تالاب</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2 Hover background</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>رنگ پس زمینه ثانویه 1</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>ثانویه 1 پس زمینه</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>رنگ پس زمینه ثانویه 2</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>2 پس زمینه</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>رنگ متن ثانویه 1</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>ثانویه 1 Text</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>رنگ متن ثانویه 2</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>2 متن</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>گزینه Select</value>

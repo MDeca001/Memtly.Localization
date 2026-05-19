@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Cód an Chóid</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Sár-sáruithe</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Amharc ar gach eolas</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Turgnamhach</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Easpórtáil</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Ní féidir ainm an Gailearaí folamh</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>An dath an chúlra navbar</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Uisce agus Séarachas</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>An dath an téacs teideal navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Naisc ábhartha eile</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Míreanna Nua ar feitheamh Athbhreithniú</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Cur i láthair</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>An dath an chúlra mír bunscoile 1 ar hover</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Bunoideachas Iarbhunoideachas</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>An dath an chúlra mír bunscoile 3 ar hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>An tSraith Shinsearach</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>An dath an chúlra mír bunscoile 2 ar hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>An tSraith Shinsearach</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Dath cúlra na príomh-mhíre 1</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Bunscoil 1</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Dath chúlra na príomh-mhíre 3</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>An tSraith Shinsearach</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Dath chúlra na míre bunscoile 2</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>An tSraith Shinsearach</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>An dath an téacs mír 1 bunscoile</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Bunscoil 1 Téacs</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>An dath an téacs mír bunscoile 3</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Bunoideachas 3 Téacs</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>An dath an téacs mír bunscoile 2</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Bunoideachas Téacs</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Ní cheadaítear ainmneacha gailearaí faoi chosaint. Déan iarracht ainm difriúil</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Cuardaigh Téarma</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>An dath an cúlra mír tánaisteach 1 ar hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Meánscoil 1 Hover Cúlra</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>An dath an cúlra mír tánaisteach 2 ar hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Dara dul síos 2 Hover Cúlra</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Dath cúlra na míre tánaisteach 1</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Meánscoil 1</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Dath cúlra na míre tánaisteach 2</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Meánscoil 2</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Dath an téacs mír 1 tánaisteach</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Meán Fómhair 1 Téacs</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>An dath an téacs mír tánaisteach 2</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Secondary 2 Téacs</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Roghnaigh gach rud</value>

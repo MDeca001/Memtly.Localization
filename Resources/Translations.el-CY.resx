@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Κωδικός</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Υπέρθετα χρώματα</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Κοινές ρυθμίσεις</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Σφάλματα</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Πειραματική</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Εξαγωγή</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Το όνομα της συλλογής δεν μπορεί να είναι κενό</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του φόντου navbar</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Φόντο της γραμμής πλοήγησης</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του κειμένου τίτλου navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Τίτλος της Navbar</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Νέα αντικείμενα σε αναμονή αναθεώρησης</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Παρουσίαση</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του πρωτογενούς υποβάθρου 1 αντικειμένου επί της αιώρησης</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Βασικό φόντο 1 Hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του πρωτογενούς υποβάθρου του 3 αντικειμένου επί της αιώρησης</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Πρωτοβάθμιο φόντο 3 hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του πρωτογενούς υποβάθρου 2 στοιχείων στο αιώρημα</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Πρωτοβάθμια 2 Hover Φόντο</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του φόντου του πρωτογενούς στοιχείου 1</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Πρωτογενές 1 φόντο</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του φόντου του πρωτογενούς 3 αντικειμένου</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Πρωτογενές 3 Φόντο</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του πρωτογενούς 2 αντικειμένου</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Βασικό 2 Φόντο</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του πρωτογενούς κειμένου 1 αντικειμένου</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Βασικό κείμενο 1</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του πρωτογενούς κειμένου 3 αντικειμένου</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Βασικό 3 κείμενο</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του πρωτογενούς κειμένου 2 αντικειμένου</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Βασικό κείμενο 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Δεν επιτρέπονται προστατευόμενα ονόματα γκαλερί. Παρακαλώ δοκιμάστε ένα διαφορετικό όνομα</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Όρος αναζήτησης</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του υποβάθρου του δευτερεύοντος στοιχείου 1 στην αιώρηση</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Δευτεροβάθμιο φόντο 1 Hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του υποβάθρου του δευτερεύοντος 2 αντικειμένου στο αιώρημα</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Δευτεροβάθμια 2 Hover Φόντο</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του υποβάθρου του δευτερεύοντος στοιχείου 1</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Δευτερεύων 1 Ιστορικό</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του υποβάθρου του δευτερεύοντος 2 αντικειμένου</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Δευτεροβάθμια 2 Φόντο</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του δευτερεύοντος κειμένου 1 αντικειμένου</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Δευτερεύον κείμενο 1</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Το χρώμα του δευτερεύοντος κειμένου 2 στοιχείων</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Δευτερεύον κείμενο 2</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Επιλογή</value>

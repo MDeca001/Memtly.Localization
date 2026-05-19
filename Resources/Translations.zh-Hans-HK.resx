@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>代码</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>颜色覆盖</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>常见设置</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>错误</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>实验</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>导出</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>图片库名称不能为空</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>导航背景的颜色</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>导航栏背景</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>导航栏标题文本的颜色</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>导航栏标题</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>有待审查的新项目</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>列报</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>悬浮上主 1 项背景的颜色</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>小学 1 背景</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>悬浮上主 3 项背景的颜色</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>小学三年级</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>悬浮上主 2 项背景的颜色</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>小学 二年级</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>主 1 项背景的颜色</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>小学 1 背景</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>主 3 项背景的颜色</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>小学3 背景</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>主 2 项背景的颜色</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>小学2 背景</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>主 1 项文本的颜色</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>初级 1 文本</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>主 3 项目文本的颜色</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>初级 3 文本</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>主 2 项文本的颜色</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>初级 2 文本</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>受保护的画廊名称是不允许的. 请尝试不同的名字</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>搜索期限</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>悬浮的二级 1 项背景颜色</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>中学1</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>悬浮的二次 2 项背景的颜色</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>中学2</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>二级 1 项背景的颜色</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>中学 1 背景</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>次要 2 项背景的颜色</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>中学 2 背景</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>第1项文本的颜色</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>中文本 1</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>第2项文本的颜色</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>二级文本</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>选择</value>

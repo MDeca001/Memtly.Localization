@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>รหัส</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>แปรงทาสี</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>ตั้งค่าทั่วไป</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>ผิดพลาด</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>ตัวประมวลผล</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>ส่งออก</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>ชื่อของคลังภาพไม่สามารถว่างไว้ได้</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>สีพื้นหลังของบริการ Navbar</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>พื้นหลังแถบงาน</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>สีของข้อความหัวเรื่อง Navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>หัวเรื่องหน้าต่าง</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>การทบทวนรายการใหม่</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>การนําเสนอ</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>สีของพื้นหลังรายการ 1 อันดับหลักเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>พื้นหลังระดับ 1</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>สีของพื้นหลังรายการหลัก 3 รายการเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>พื้นหลังหลัก 3</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>สีของรายการหลัก 2 พื้นหลังเมื่อเคลื่อนเมาส์อยู่เหนือ</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>พื้นหลังหลัก 2</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>สีของพื้นหลังรายการหลัก 1 รายการ</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>พื้นหลังหลัก 1</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>สีพื้นหลังรายการหลัก 3 รายการ</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>พื้นหลังหลัก 3</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>สีของพื้นหลังรายการหลัก 2 รายการ</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>พื้นหลังหลัก 2</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>สีของรายการหลัก 1 รายการ</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>ข้อความหลัก 1 ข้อความ</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>สีของรายการหลัก 3 รายการ</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>ข้อความหลัก 3 ข้อความ</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>สีของรายการหลัก 2 รายการ</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>ข้อความหลัก 2 ข้อความ</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>ไม่อนุญาตให้ใช้ชื่อแกลเลอรี่ที่ป้องกันแล้ว โปรดลองชื่ออื่น</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>จํานวนงวด:</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>สีของพื้นหลังรายการที่สอง 1 รายการเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>พื้นหลังครั้งที่สอง 1 Huover</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>สีพื้นหลังของรายการที่สอง 2 รายการเมื่อเคลื่อนเมาส์มาอยู่เหนือ</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>พื้นหลัง 2 วันที่สอง</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>สีของพื้นหลังรายการที่สอง 1 รายการ</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>พื้นหลังลําดับที่สอง 1</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>สีพื้นหลังของรายการที่สอง 2 รายการ</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>พื้นหลัง 2 อันดับ 2</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>สีของรายการที่สอง 1 รายการ</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>ข้อความที่สอง 1 ข้อความ</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>สีของข้อความ 2 รายการที่สอง</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>ข้อความที่สอง 2 ข้อความ</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>เลือก</value>

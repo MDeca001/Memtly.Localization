@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Коди</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Кольори</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Загальні налаштування</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Помилки</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Експериментальні</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Експорт</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Назва галереї не може бути порожнім</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Колір навбарного фону</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Навбар фон</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Колір тексту навбара</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Назва Navbar</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Новий товар Попередній огляд</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Презентація</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Колір основного 1 пункту фону на конюшині</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Первинний 1-й поверх</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Колір основного 3 пункту фону на конюшині</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Первинний 3 поверх</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Колір основного 2 пункту фону на конюшині</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Первинний 2 поверх</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Колір основного 1 предметного фону</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Первинний 1 фон</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Колір основного 3 предметного фону</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Первинний 3 фон</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Колір основного 2 пункту фону</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Первинний 2 поверх</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Колір основного тексту 1</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Первинний 1 текст</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Колір основного тексту 3</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Первинний 3 текст</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Колір основного тексту 2</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Первинний 2 текст</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Не допускаються назви галереї. Будь ласка, спробуйте інше ім'я</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Термін дії</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Колір вторинного 1 пункту фону на конюшині</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Поза «69»</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Колір вторинного 2 пункту фону на конюшині</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Поза «69»</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Колір вторинного 1 предметного фону</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Поза «69»</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Колір вторинного 2 пункту фону</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Поза «69»</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Колір вторинного 1 пункту тексту</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Поза «69»</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Колір вторинного 2 пункту тексту</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Поза «69»</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Обрати</value>

@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kods</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Krāsa</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Kopējie iestatījumi</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Kļūda</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Eksperimentāls</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Eksports</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galerijas nosaukums nevar būt tukšs</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Navbar fona krāsa</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navjoslas fons</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Navbar virsraksta teksta krāsa</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navjoslas nosaukums</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Pārskatīšana</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Prezentācija</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Primārā 1 posteņa fona uzkavēšanās krāsa</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Primārais 1. attēls</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Primārā 3 vienību fona uzkavēšanās krāsa</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Primārais 3 Pacelšanas fons</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Primārās 2 vienības fona uzkavēšanās krāsa</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Primārais 2 Hovers fons</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Primārā 1 elementa fona krāsa</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Primārais 1. fons</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Primārās 3 vienības fona krāsa</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Primārais 3 fons</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Primārās 2 vienības fona krāsa</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Primārais 2 Fons</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Pirmā elementa teksta krāsa</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Primārais 1 teksts</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Galvenā 3 vienību teksta krāsa</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Primārais 3 teksts</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Primārā 2 elementa teksta krāsa</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Primārais 2 teksts</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Aizsargāti galeriju nosaukumi nav atļauti. Lūdzu, mēģiniet citu nosaukumu</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Meklēšanas termins</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Sekundārā 1 vienības fona krāsa uz klāja</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>1. sekundārais pamats</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Sekundārā 2 vienības fona uz klāja krāsa</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Sekundārais 2. attēls</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Sekundārā 1 vienības fona krāsa</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>1. sekundārais konteksts</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Sekundārā 2 vienības fona krāsa</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Sekundārais pamatojums</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Sekundārā 1. punkta teksta krāsa</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Teksts</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Sekundārā 2. punkta teksta krāsa</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Sekundārais 2. teksts</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Izvēlēties</value>

@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Qalereya</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Qeydiyyat</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Axtarış</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Qalereya</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Texniki</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>İdman</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Domen adı boş deyil</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Navbar fonunun rəsmi</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbar Planı</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Navbar başlığının rəngisi</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbar Title</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Yeni maddələr Pending Review</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value> Presentation</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Ilk 1 maddə fon rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi rəsmi</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>İlkin 1 Hover Planı</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Əsas 3 maddə fon rənginin rəng</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Primary 3 Hover Plan</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Əsas 2 maddə fon rənginin rəng</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Primary 2 Hover Plan</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>İlk 1 maddə fonunun rəngisi</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>İctimai 1 Plan</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>İlk 3 maddə fonunun rəngisi</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Ümumi 3 Plan</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>İlk 2 maddə fonunun rəngisi</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>İctimai 2 Plan</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>İlk 1 məhsul məhsulunun rəsmi</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Primary 1 Text</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>İlk 3 məhsul məhsulunun rəsmi</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Primary 3 Text</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>İlk 2 məhsul məhsulunun rəsmi</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Primary 2 Text</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Qeydiyyatdan keçmiş qazanmaq mümkün deyil. Daxil ol</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Axtarış</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Böyük 1 maddə fon rəsmi rəng</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Orta 1 Hover Planı</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Böyük 2 maddə fon rəsmi</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Orta 2 Hover Planı</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Orta 1 maddə fonunun rəsmi</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Orta 1 Planlaşdırma</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Orta 2 maddə fonunun rəsmi</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Orta 2 Planlaşdırma</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Orta 1 maddə məhsulunun rəsmi</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Orta 1 Text</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Orta 2 maddə məhsulunun rəsmi</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Secondary 2 Text</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Seçki</value>

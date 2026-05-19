@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kood</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Värvide tühistamine</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ühised seadistused</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Vead</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Eksperimentaalne</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Eksport</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galerii nimi ei saa olla tühi</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Navriba tausta värv</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbari taustName</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Navbari pealkirja teksti värv</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbari nimi</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Läbivaatamist ootavad uued elemendid</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Esitlus</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Põhilise 1 elemendi tausta värv hõljumisel</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Põhiline 1 Hover taust</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Primaarse 3 elemendi tausta värv hõljumisel</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Primaarne 3 Hover taust</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Põhilise 2 elemendi tausta värv hõljumisel</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Põhiline 2 Hover taust</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Esmase 1 elemendi tausta värv</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Põhiline 1 Taust</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>3 põhielemendi tausta värv</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Põhiline 3 Taust</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Põhilise 2 elemendi tausta värv</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Põhiline 2 Taust</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Esmase 1 elemendi teksti värv</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Algne 1 tekst</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>3 põhielemendi teksti värv</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>3. algtekst</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>2 põhielemendi teksti värv</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>2. põhitekst</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Kaitstud galeriide nimed ei ole lubatud. Palun proovi teist nime</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Otsingutermin</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Teisese 1 elemendi tausta värv hõljumisel</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Teisene 1 Hover taust</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Teisese 2 elemendi tausta värv hõljumisel</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Sekundaarne 2 Hover taust</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Teisese 1 elemendi tausta värv</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Teisene 1 taust</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Teisese 2 elemendi tausta värv</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Sekundaarne 2 taust</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Teisese punkti 1 teksti värv</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Teisene 1 tekst</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Teisese punkti 2 teksti värv</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Teisene 2. tekst</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Vali</value>

@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kode Code</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Mengeluarkan Warna</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Pengaturan Umum</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Galat</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Eksperimen</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Ekspor</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Nama Galeri Galeri Galeri tidak dapat kosong</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Warna latar belakang navbar</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Latar Belakang Navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Warna dari teks tajuk navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Gelaran Navbar</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Item Baru Mending Ulasan</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Persembahan</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Warna dari 1 butir primer latar belakang di hover</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Lover Latar Belakang Primer 1</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Warna dari 3 butir primer latar belakang di hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Lover Latar Belakang Primer 3</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Warna dari warna primer 2 item background on hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Lover Latar Belakang Primer 2</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Warna dari latar belakang 1 butir primer</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Latar Belakang Primer 1</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Warna dari latar belakang 3 butir primer</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Latar Belakang Primer 3</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Warna dari latar belakang utama 2 item</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Latar Belakang Primer 2</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Warna dari 1 butir teks utama</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Teks Primary 1</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Woidon Warna teks utama 3 butir</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Teks Sumber Utama 3</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Woidon Warna teks utama 2 item</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Teks Primary 2</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Nama galeri yang dilindungi tidak diperbolehkan. Sila coba nama lain</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Term pencarian</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Warna dari warna latar belakang 1 item sekunder pada hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Sekunder Sekunder 1 Latar Belakang Sampul</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Warna dari latar belakang 2 item sekunder pada hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Sekunder Sekunder 2 Horor Latar Belakang</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Warna warna latar belakang item 1 sekunder</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Sekunder Sekunder 1 Latar Belakang</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Warna warna latar belakang item sekunder 2</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Sekunder Sekunder 2 Latar Belakang</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>258 Warna teks item 1 sekunder</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Sekunder 1 Teks</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>253 Warna teks item sekunder 2</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Sekunder Sekunder 2 Teks</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>♪ Pilih ♪</value>

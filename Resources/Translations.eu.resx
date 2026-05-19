@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kodea</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Koloreen ezeztapena</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Ezarpen komunak</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Erroreak</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Esperimentua</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Esportatu</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galeriaren izena ezin da hutsik egon</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Ontziaren atzeko planoaren kolorea</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbar atzeko planoa</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Navbar tituluaren testuaren kolorea</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbar titulua</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Elementu berriak gainbegiratzeko</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Aurkezpena</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Lehen mailako elementuaren atzeko planoaren kolorea hoverrean</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>1 Hover atzeko planoa</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Lehen mailako 3 elementuaren atzeko planoaren kolorea hoverrean</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>3 Hover atzeko planoa</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Lehen mailako 2. elementuaren atzeko planoaren kolorea hoverrean</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2 Hover atzeko planoa</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Lehen mailako elementuaren atzeko planoaren kolorea</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Lehen planoan</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Lehen mailako 3 elementuaren atzeko planoaren kolorea</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>3. maila</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Bigarren elementuaren atzeko planoaren kolorea</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>2. mailako atzeko planoa</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Lehen mailako 1. elementuaren testuaren kolorea</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>1. maila</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Lehen mailako 3 elementuko testuaren kolorea</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>3. maila</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>2. elementuko testuaren kolorea</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>2. maila</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Galeria-izen babestuak ez dira onartzen. Saiatu beste izen batekin</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Bilaketa-aldia</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Bigarren mailako elementuaren atzeko planoaren kolorea hoverrean</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Bigarren mailako 1 atzeko planoa</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Bigarren mailako elementuaren atzeko planoaren kolorea hoverrean</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Bigarren mailako bigarren mailako atzeko planoa</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Bigarren mailako elementuaren atzeko planoaren kolorea</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Bigarren mailakoa 1</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Bigarren mailako 2. elementuaren atzeko planoaren kolorea</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Bigarren itzulia</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Bigarren mailako elementuaren testuaren kolorea</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Bigarren mailako 1. maila</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Bigarren mailako 2. elementuaren testuaren kolorea</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Bigarren mailako testua</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Hautatu</value>

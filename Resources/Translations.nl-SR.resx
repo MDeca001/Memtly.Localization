@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Rubriek</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Kleuroverschrijven</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Gemeenschappelijke instellingen</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Fouten</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Experimenteel</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Uitvoer</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galerijnaam kan niet leeg zijn</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>De kleur van de navbar achtergrond</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbar achtergrond</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>De kleur van de navbar titeltekst</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbar-titel</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Nieuwe items in behandeling</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Presentatie</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 1 item achtergrond op hover</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Primaire 1 Hover achtergrond</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 3 item achtergrond op zweef</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Primaire 3 Hover achtergrond</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 2 item achtergrond op zweef</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Primaire 2 Hover achtergrond</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 1 item achtergrond</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Primaire 1 achtergrond</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 3 item achtergrond</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Primaire 3 achtergrond</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 2 item achtergrond</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Primaire 2 achtergrond</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 1 item tekst</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Primaire 1 Tekst</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 3 item tekst</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Primaire 3 Tekst</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>De kleur van de primaire 2 item tekst</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Primaire 2 Tekst</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Beschermde galerienamen zijn niet toegestaan. Probeer een andere naam</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Zoekterm</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>De kleur van het secundaire 1 item achtergrond op zweef</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Secundaire 1 Hover achtergrond</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>De kleur van de secundaire 2 item achtergrond op zweef</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Secundaire 2 Hover achtergrond</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>De kleur van het secundaire 1 item achtergrond</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Secundaire 1 achtergrond</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>De kleur van de secundaire 2 item achtergrond</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Secundaire 2 achtergrond</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>De kleur van het secundaire 1 item tekst</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Secundaire 1 tekst</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>De kleur van de secundaire 2 item tekst</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Secundaire 2 Tekst</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Selecteren</value>

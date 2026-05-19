@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kodigo</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Labis na Pagdami ng Colour</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Karaniwang mga Pagtatakda</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Mga Pagkakamali</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Eksperimento</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Transportasyon</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Ang pangalang Gallery ay hindi maaaring walang laman</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng navbar background</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Kasaysayan ng Navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng navbar title text</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navalbar Title</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Bagong Repleksiyon ng mga Bagay - Bagay</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Paghaharap</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 1 bagay na nasa likuran ng aali - aligid</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Pangunahing 1 Kasaysayan</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 3 bagay na nasa likuran habang lumilipad</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Pangunahing 3 Pinagmulan</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 2 bagay na nasa likuran ng aali - aligid</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Pangunahing 2 Kasaysayan</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 1 bagay sa likuran</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Pangunahing 1 Pinagmulan</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 3 bagay sa likuran</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Pangunahin 3 Pinagmulan</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 2 bagay sa likuran</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Pangunahin 2 Pinagmulan</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 1 na teksto</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Pangunahing 1 Teksto</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 3 na teksto</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Pangunahin 3 Teksto</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangunahing 2 bagay</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Pangunahing 2 Teksto</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Ang iniingatang mga pangalan sa galerya ay hindi ipinahihintulot. Subukan ang ibang pangalan</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Paghahanap</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangalawahing 1 bagay na nasa likuran ng aali - aligid</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Ikalawang Bahagi 1 Kasaysayan</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangalawahing 2 bagay na nasa likuran ng aali - aligid</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Pangalawang Bahagi 2 Kasaysayan</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangalawahing 1 bagay sa likuran</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Ikalawang Bahagi 1 Pinagmulan</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangalawahing 2 bagay sa likuran</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Ikalawang Bahagi 2 Pinagmulan</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng pangalawang 1 na teksto</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Ikalawang Teksto</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Ang kulay ng ikalawang 2 artikulo</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Ikalawang Teksto</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Pumili</value>

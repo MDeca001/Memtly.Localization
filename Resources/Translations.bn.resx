@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>কোড</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>রং অগ্রাহ্য করা হবে</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>সাধারণ বৈশিষ্ট্য</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>ত্রুটি</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>পরীক্ষামূলক গতি</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>এক্সপোর্ট করুন</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>গ্যালারির নাম ফাঁকা নেই</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>নানবার পটভূমির রং</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>নাভাব পটভূমি</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>নেমোনিক লেখার রং</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>টুল-বারের শিরোনাম</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>নতুন বস্তু পর্যালোচনা</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>প্রেসেন্টেশন</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>প্রথম বস্তুতে পটভূমির রং</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>প্রাথমিক ভাসমান পটভূমি</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>প্রাথমিক ৩টি বস্তু</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>প্রাথমিক ৩- উত্তর</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>সক্রিয় আইটেমের পটভূমির রং</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>প্রাথমিক ২ ভাসমান পটভূমি</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>প্রধানের পটভূমির রং</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>প্রধান পটভূমি</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>প্রধান পটভূমির রং</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>প্রাথমিক ৩ পটভূমি</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>প্রধানের পটভূমির রং</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>প্রধান ২ পটভূমি</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>প্রধান টেক্সটের রং</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>প্রধান টেক্সট</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>প্রধান টেক্সটের রং</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>প্রধান টেক্সট</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>প্রধান টেক্সটের পটভূমির রং</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>প্রধান টেক্সট</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>গ্যালারির নাম সমর্থিত নয়। দয়া করে একটি ভিন্ন নাম চেষ্টা করুন</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>অনুসন্ধানের স্থান</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>সক্রিয় অবস্থায় দ্বিতীয় পটভূমির রং</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয় ফ্রেমের পটভূমি</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>সক্রিয় আইটেমের পটভূমির রং</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয় টাচ পটভূমি</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>দ্বিতীয় পটভূমির রং</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয় পটভূমি</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>দ্বিতীয় পটভূমির রং</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয় পটভূমি</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>দ্বিতীয় টেক্সটের রং</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয় টেক্সট</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>দ্বিতীয় টেক্সটের রং</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>দ্বিতীয় টেক্সট</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>নির্বাচন করুন</value>

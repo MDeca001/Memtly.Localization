@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kód</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Színfelülírások</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Általános beállítások</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Hibák</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Kísérleti</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Exportálás</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>A galéria neve nem lehet üres</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>A navbar háttér színe</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbar háttér</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>A navbar címszöveg színe</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbar cím</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>A felülvizsgálat alatt álló új tételek</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Bemutató</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 1 tételes háttér színe lebegőhelyen</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Elsődleges 1 Hover háttér</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 3 darabos háttér színe a lebegőn</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Elsődleges 3 Hover háttér</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 2 elemes háttér színe lebegőn</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Elsődleges 2 Hover háttér</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 1 tételes háttér színe</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Elsődleges 1 Háttér</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 3 tételes háttér színe</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Elsődleges 3 háttér</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 2 tételes háttér színe</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Elsődleges 2 háttér</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 1 tételes szöveg színe</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Elsődleges 1. szöveg</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 3 tételes szöveg színe</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Elsődleges 3 szöveg</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Az elsődleges 2 tételes szöveg színe</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Elsődleges 2. szöveg</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Védett galéria neve nem megengedett. Kérem, próbáljon meg egy másik nevet</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Keresési kifejezés</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>A másodlagos 1 tételes háttér színe lebegőn</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Másodlagos 1 Hover háttér</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>A másodlagos 2 tételes háttér színe lebegőn</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Másodlagos 2 Hover háttér</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>A másodlagos 1 tételes háttér színe</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Másodlagos 1 Háttér</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>A másodlagos 2 tételes háttér színe</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Másodlagos 2 Háttér</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>A másodlagos 1 tételes szöveg színe</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Secondary 1 Text</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>A másodlagos 2 tételes szöveg színe</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Másodlagos 2. szöveg</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Kijelölés</value>

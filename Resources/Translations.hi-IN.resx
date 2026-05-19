@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>कोड</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>रंग ओवरराइड</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>आम सेटिंग</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>त्रुटियाँ</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>प्रायोगिक</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>निर्यात</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>गैलरी का नाम खाली नहीं हो सकता</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>नवबार पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>नवबार पृष्ठभूमि</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>नवबार शीर्षक पाठ का रंग</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>नवबार शीर्षक</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>नए आइटम लंबित समीक्षा</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>प्रस्तुति</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>होवर पर प्राथमिक 1 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 1 होवर पृष्ठभूमि</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>होवर पर प्राथमिक 3 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 3 होवर पृष्ठभूमि</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>होवर पर प्राथमिक 2 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>प्राइमरी 2 होवर पृष्ठभूमि</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>प्राथमिक 1 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 1 पृष्ठभूमि</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>प्राथमिक 3 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 3 पृष्ठभूमि</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>प्राथमिक 2 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 2 पृष्ठभूमि</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>प्राथमिक 1 आइटम पाठ का रंग</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 1 पाठ</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>प्राथमिक 3 आइटम पाठ का रंग</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 3 पाठ</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>प्राथमिक 2 आइटम पाठ का रंग</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>प्राथमिक 2 पाठ</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>संरक्षित गैलरी नामों की अनुमति नहीं है। कृपया एक अलग नाम आज़माएं</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>खोज अवधि</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>होवर पर माध्यमिक 1 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 1 होवर पृष्ठभूमि</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>होवर पर माध्यमिक 2 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 2 होवर पृष्ठभूमि</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>माध्यमिक 1 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 1 पृष्ठभूमि</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>माध्यमिक 2 आइटम पृष्ठभूमि का रंग</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 2 पृष्ठभूमि</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>माध्यमिक 1 आइटम पाठ का रंग</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 1 पाठ</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>माध्यमिक 2 आइटम पाठ का रंग</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>माध्यमिक 2 पाठ</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>चयन</value>

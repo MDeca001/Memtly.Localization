@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kode</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Farveovergange</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Fælles indstillinger</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Fejl</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Eksperimentel</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Eksport</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galleringsnavn kan ikke være tomt</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Farven på navbar baggrund</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbar baggrund</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Farven på navbar titel tekst</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbar titel</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Nye elementer afventer revision</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Præsentation</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Farven på den primære 1 element baggrund på svæver</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Primær 1 Hover Baggrund</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Farven på den primære 3 element baggrund på svæver</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Primær 3 Hover Baggrund</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Farven på den primære 2 element baggrund på svæver</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Primær 2 Hover Baggrund</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Farven på den primære 1-punkts baggrund</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Primær 1 baggrund</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Farven på den primære 3 element baggrund</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Primær 3 baggrund</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Farven på baggrund af primære 2 elementer</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Primær 2 baggrund</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Farven på den primære 1-punkts tekst</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Primær 1 tekst</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Farven på den primære 3-punkts tekst</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Primær 3 tekst</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Farven på den primære tekst i 2 elementer</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Primær 2 tekst</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Beskyttede gallerinavne er ikke tilladt. Prøv et andet navn</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Søgebetegnelse</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Farven på den sekundære 1-punkts baggrund på svæver</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Sekundær 1 Hover Baggrund</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Farven på den sekundære 2-punkts baggrund på svæver</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Sekundær 2 Hover Baggrund</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Farven på den sekundære 1-punkts baggrund</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Sekundær 1 Baggrund</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Farven på den sekundære 2-punkts baggrund</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Sekundær 2 Baggrund</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Farven på den sekundære 1-punkts tekst</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Sekundær 1 tekst</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Farven på den sekundære tekst 2</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Sekundær 2 tekst</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Vælg</value>

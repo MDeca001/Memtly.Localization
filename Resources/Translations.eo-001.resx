@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Kodo</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Koloro superridoj</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Oftaj aranĝoj</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Eraroj</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Eksperimenta eksperimenta</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Eksporto</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Kanaria nomo ne povas esti malplena</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>La koloro de la navbarfono</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbar F</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>La koloro de la navbar titolteksto</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbar Titolo</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>New Items Pending Review</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Prezento</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 1 objektofono sur ŝvebanto</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>1 Hover F</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 3 objektofono sur ŝvebanto</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>3 Hover F</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 2 objektofono sur ŝvebo</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2 Hover F</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 1 objektofono</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>1 Fono</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 3 objektofono</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Ĉefa 3 Fono</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 2 objektofono</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>2 Fono</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 1 objektoteksto</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>1 Teksto 1 Teksto</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 3 tekstoteksto</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>3 Teksto</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>La koloro de la primara 2 tekstoteksto</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>2 Teksto</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Protektitaj galerionomoj ne estas permesitaj. Bonvolu provi alian nomon</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Serĉo</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>La koloro de la sekundara 1 objektofono sur ŝvebanto</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>1 Hover F</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>La koloro de la sekundara 2 objektofono sur ŝvebanto</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2 Hover F</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>La koloro de la sekundara 1 objektofono</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>Sekundara 1 Fono</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>La koloro de la sekundara 2 objektofono</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Sekundara 2 Fono</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>La koloro de la sekundara 1 objektoteksto</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Sekundara 1 Teksto</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>La koloro de la sekundara 2 tekstoteksto</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Dua teksto</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Elektu</value>

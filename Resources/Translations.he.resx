@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>קודקוד</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>צבעים Overrides</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>הגדרות נפוצות</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>טעויות</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>ניסוי</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>יצוא</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>שם גלריה לא יכול להיות ריק</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>הצבע של הרקע הנבל</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>רקע נבאר</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>הצבע של ה-Navbar</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>המונחים:</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>פריטים חדשים להורדה</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>מצגת</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>הצבע של רקע הפריט הראשון על מרחף</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>רקע ראשון Hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>צבע של רקע 3 הפריט הראשוני על מרחף</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>3 רקע Hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>הצבע של 2 הרקע הראשוני של הפריט על מרחף</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2 רקע Hover</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>צבע רקע הפריט הראשון</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>רקע ראשון</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>צבע רקע 3 הפריט הראשוני</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>3 רקע</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>צבע רקע 2 הפריט העיקרי</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>2 רקע</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>הצבע של הטקסט הראשון</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>1 טקסט</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>צבע 3 הטקסט הראשוני</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>3 טקסט</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>צבע 2 הטקסט הראשוני</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>2 טקסט</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>שמות גלריה מוגנים אינם מורשים. נסו שם אחר</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>תוצאות חיפוש</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>צבע של רקע פריט משני 1 על מרחף</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>1 רקע Hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>הצבע של 2 רקע פריט משני על מרחף</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2 רקע Hover</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>צבע רקע פריט משני 1</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>רקע 1</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>צבע רקע שני הפריט משני</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>2 רקע</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>צבעו של פריט 1 משני</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>1 טקסט</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>צבעו של הטקסט משני 2</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>2 טקסט</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>בחר</value>

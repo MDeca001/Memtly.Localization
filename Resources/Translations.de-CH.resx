@@ -394,6 +394,9 @@
   <data name="Code" xml:space="preserve">
     <value>Code</value>
   </data>
+  <data name="Colour_Overrides" xml:space="preserve">
+    <value>Farbe Overrides</value>
+  </data>
   <data name="Common_Settings" xml:space="preserve">
     <value>Gemeinsame Einstellungen</value>
   </data>
@@ -546,6 +549,9 @@
   </data>
   <data name="Errors" xml:space="preserve">
     <value>Fehler</value>
+  </data>
+  <data name="Experimental" xml:space="preserve">
+    <value>Experimentelle</value>
   </data>
   <data name="Export" xml:space="preserve">
     <value>Exportieren</value>
@@ -1006,6 +1012,18 @@
   <data name="Name_Cannot_Be_Blank" xml:space="preserve">
     <value>Galeriename darf nicht leer sein</value>
   </data>
+  <data name="Navbar_Background_Color_Help" xml:space="preserve">
+    <value>Die Farbe des navbar Hintergrunds</value>
+  </data>
+  <data name="Navbar_Background_Color_Label" xml:space="preserve">
+    <value>Navbar Hintergrund</value>
+  </data>
+  <data name="Navbar_Title_Color_Help" xml:space="preserve">
+    <value>Die Farbe des navbar Titeltextes</value>
+  </data>
+  <data name="Navbar_Title_Color_Label" xml:space="preserve">
+    <value>Navbar Titel</value>
+  </data>
   <data name="New_Items_Pending_Review" xml:space="preserve">
     <value>Neue Elemente warten auf eine Genehmigung</value>
   </data>
@@ -1104,6 +1122,60 @@
   </data>
   <data name="Presentation" xml:space="preserve">
     <value>Präsentation</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Die Farbe des primären 1 Artikel Hintergrund auf Hover</value>
+  </data>
+  <data name="Primary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Primär 1 Hover Hintergrund</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Help" xml:space="preserve">
+    <value>Die Farbe des primären 3 Artikel Hintergrund auf Hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Three_Color_Label" xml:space="preserve">
+    <value>Primärer 3 Hover Hintergrund</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Die Farbe des primären 2 Artikel Hintergrund auf Hover</value>
+  </data>
+  <data name="Primary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>Primar 2 Hover Hintergrund</value>
+  </data>
+  <data name="Primary_Background_One_Color_Help" xml:space="preserve">
+    <value>Die Farbe des primären 1 Artikel Hintergrund</value>
+  </data>
+  <data name="Primary_Background_One_Color_Label" xml:space="preserve">
+    <value>Primärer 1 Hintergrund</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Help" xml:space="preserve">
+    <value>Die Farbe des primären 3 Artikel Hintergrund</value>
+  </data>
+  <data name="Primary_Background_Three_Color_Label" xml:space="preserve">
+    <value>Primärer 3 Hintergrund</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Die Farbe des primären 2 Artikel Hintergrund</value>
+  </data>
+  <data name="Primary_Background_Two_Color_Label" xml:space="preserve">
+    <value>Grund 2 Hintergrund</value>
+  </data>
+  <data name="Primary_Text_One_Color_Help" xml:space="preserve">
+    <value>Die Farbe des ersten Artikels</value>
+  </data>
+  <data name="Primary_Text_One_Color_Label" xml:space="preserve">
+    <value>Primär 1 Text</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Help" xml:space="preserve">
+    <value>Die Farbe des Haupttextes 3</value>
+  </data>
+  <data name="Primary_Text_Three_Color_Label" xml:space="preserve">
+    <value>Primär 3 Text</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Die Farbe des Haupttextes 2</value>
+  </data>
+  <data name="Primary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Primär 2 Text</value>
   </data>
   <data name="Protected_Gallery_Name" xml:space="preserve">
     <value>Geschützte Galerienamen sind nicht erlaubt. Bitte versuchen Sie einen anderen Namen</value>
@@ -1269,6 +1341,42 @@
   </data>
   <data name="SearchTerm_Label" xml:space="preserve">
     <value>Suche Term</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Help" xml:space="preserve">
+    <value>Die Farbe des sekundären 1 Artikel Hintergrund auf Hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_One_Color_Label" xml:space="preserve">
+    <value>Sekundärer 1 Hover Hintergrund</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Help" xml:space="preserve">
+    <value>Die Farbe des 2 Artikel Hintergrund auf Hover</value>
+  </data>
+  <data name="Secondary_Background_Hover_Two_Color_Label" xml:space="preserve">
+    <value>2. Hover Hintergrund</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Help" xml:space="preserve">
+    <value>Die Farbe des zweiten 1 Artikel Hintergrund</value>
+  </data>
+  <data name="Secondary_Background_One_Color_Label" xml:space="preserve">
+    <value>2. Hintergrund</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Help" xml:space="preserve">
+    <value>Die Farbe des 2 Artikel Hintergrund</value>
+  </data>
+  <data name="Secondary_Background_Two_Color_Label" xml:space="preserve">
+    <value>2 Hintergrund</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Help" xml:space="preserve">
+    <value>Die Farbe des 2. Teiltextes</value>
+  </data>
+  <data name="Secondary_Text_One_Color_Label" xml:space="preserve">
+    <value>Zweiter Text</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Help" xml:space="preserve">
+    <value>Die Farbe des 2. Teiltextes</value>
+  </data>
+  <data name="Secondary_Text_Two_Color_Label" xml:space="preserve">
+    <value>Zweiter Text</value>
   </data>
   <data name="Select" xml:space="preserve">
     <value>Wählen</value>
