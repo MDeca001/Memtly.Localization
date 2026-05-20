@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Sắc thái</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Cho phép người dùng thay đổi sắc thái tự chọn</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Name</value>
   </data>

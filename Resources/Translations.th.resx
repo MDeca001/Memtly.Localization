@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>ชุดตกแต่ง</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>อนุญาตให้ผู้ใช้เลือกชุดตกแต่งที่กําหนดเอง</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>ชุดตกแต่งปริยายของเว็บไซต์หากยังไม่มีการเลือก</value>
   </data>

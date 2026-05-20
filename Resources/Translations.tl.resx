@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Mga Theme</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Hayaang baguhin ng mga gumagamit ang tema ng kaugalian</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Ang tema ng default website kung walang napili</value>
   </data>

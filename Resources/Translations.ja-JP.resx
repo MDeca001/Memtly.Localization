@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>テーマ</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>ユーザーがカスタムテーマを選択できるようにする</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>どれも選択されていない場合のデフォルトのウェブサイトのテーマ</value>
   </data>

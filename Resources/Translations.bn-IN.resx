@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>থিম</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>স্বনির্ধারিত থিম পরিবর্তনের জন্য আবশ্যক</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>নির্বাচিত না হলে ডিফল্ট ওয়েবসাইট থিম নির্বাচন করা হবে</value>
   </data>

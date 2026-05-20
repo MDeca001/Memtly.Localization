@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Témy</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Povoliť používateľom zmeniť výber vlastnej témy</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Štandardná téma webovej stránky, ak žiadny nie je vybraný</value>
   </data>

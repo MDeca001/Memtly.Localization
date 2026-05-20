@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Темалар</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Колдонуучуларга атайын теманы тандоого мүмкүнчүлүк берүү</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Вебсайттын демейки темасы, эгерде эч ким тандалбаса</value>
   </data>

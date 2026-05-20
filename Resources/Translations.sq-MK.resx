@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Temat</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Lejo përdoruesit të ndryshojnë temën e personalizuar</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Tema e paracaktuar e faqes në internet nëse nuk është zgjedhur asnjë</value>
   </data>

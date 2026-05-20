@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Θέματα</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Επίτρεψε στους χρήστες να αλλάξουν το προσαρμοσμένο θέμα</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Το προκαθορισμένο θέμα ιστοσελίδας αν δεν έχει επιλεγεί</value>
   </data>

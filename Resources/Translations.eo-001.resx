@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Temoj</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Lasu uzantojn ŝanĝi selekti la kutimon temon</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>La defaŭlta retejo temo se neniu estas elektita</value>
   </data>

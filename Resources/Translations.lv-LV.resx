@@ -1927,6 +1927,9 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Tēmas</value>
   </data>
+  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
+    <value>Atļaut lietotājiem mainīt izvēlēto tēmu</value>
+  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Noklusētā mājas lapas tēma, ja neviens nav izvēlēts</value>
   </data>
