@@ -1934,7 +1934,7 @@
     <value>Thema's</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Gebruikers toestaan om het aangepaste thema te wijzigen</value>
+    <value>Gebruikers toestaan om het aangepaste thema te selecteren</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Het standaard websitethema als er geen is geselecteerd</value>

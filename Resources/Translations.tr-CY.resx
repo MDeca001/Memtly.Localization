@@ -1933,9 +1933,6 @@
   <data name="Settings_Themes" xml:space="preserve">
     <value>Temalar</value>
   </data>
-  <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Kullanıcıların özel temayı seçmelerine izin verin</value>
-  </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Varsayılan web sitesi teması hiçbir şey seçilmezse</value>
   </data>

@@ -1934,7 +1934,7 @@
     <value>Теми</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Позволете на потребителите да променят избраната тема</value>
+    <value>Позволете на потребителите да изберат потребителските теми</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Тема на сайта по подразбиране, ако няма избран</value>

@@ -1934,7 +1934,7 @@
     <value>Teman</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Låt användare ändra det anpassade temat</value>
+    <value>Låt användare välja det anpassade temat</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Standardwebbplats tema om ingen är vald</value>

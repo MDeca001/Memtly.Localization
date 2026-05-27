@@ -1934,7 +1934,7 @@
     <value>Teme</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Permite utilizatorilor să modifice tematica personalizată</value>
+    <value>Permite utilizatorilor să aleagă tema personalizată</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Tema site-ului implicit dacă niciunul nu este selectat</value>

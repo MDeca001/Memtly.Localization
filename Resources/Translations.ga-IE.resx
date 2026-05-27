@@ -1934,7 +1934,7 @@
     <value>Téamaí</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Ceadaigh úsáideoirí a athrú roghnaigh an téama saincheaptha</value>
+    <value>Ceadaigh úsáideoirí a roghnú an téama saincheaptha</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Téama láithreán gréasáin réamhshocraithe má roghnaítear aon cheann</value>

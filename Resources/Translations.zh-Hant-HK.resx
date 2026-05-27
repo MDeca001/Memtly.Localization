@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>相簿登入</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>這是被保護的畫廊. 請輸入檢視其內容的秘密金鑰 .</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>图片库 无法为空</value>
   </data>
@@ -1931,7 +1934,7 @@
     <value>主题</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>允許用戶變更自訂主題</value>
+    <value>允許用戶選擇自訂主題</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>如果没有选择默认网站主题</value>

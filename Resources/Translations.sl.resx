@@ -1934,7 +1934,7 @@
     <value>Teme</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Dovoli uporabnikom, da spremenijo izbiro teme po meri</value>
+    <value>Dovoli uporabnikom, da izberejo temo po meri</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Privzeta tema spletne strani, če ni izbrana</value>

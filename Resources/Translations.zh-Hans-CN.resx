@@ -1934,7 +1934,7 @@
     <value>主题</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>允许用户更改自定义主题</value>
+    <value>允许用户选择自定义主题</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>如果没有选择默认网站主题</value>

@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Galerio Login</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Tio estas protektita galerio. Bonvolu eniri la sekretan ŝlosilon por rigardi ĝian enhavon.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Galerio de galerio Mi ne povas esti malplena</value>
   </data>
@@ -1931,7 +1934,7 @@
     <value>Temoj</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Lasu uzantojn ŝanĝi selekti la kutimon temon</value>
+    <value>Lasu uzantojn elekti la kutimon temo</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>La defaŭlta retejo temo se neniu estas elektita</value>

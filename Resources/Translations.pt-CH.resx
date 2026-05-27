@@ -1934,7 +1934,7 @@
     <value>Temas</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Permitir que os usuários alterem a seleção do tema personalizado</value>
+    <value>Permitir aos usuários selecionar o tema personalizado</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>O tema padrão do site se nenhum for selecionado</value>

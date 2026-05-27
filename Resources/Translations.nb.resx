@@ -1934,7 +1934,7 @@
     <value>Temaer</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Tillat brukerne å endre velger det egendefinerte temaet</value>
+    <value>Tillat brukerne å velge tilpasset tema</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Standard tema for nettsider hvis ingen er valgt</value>

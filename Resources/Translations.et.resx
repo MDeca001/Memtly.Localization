@@ -1934,7 +1934,7 @@
     <value>Teemad</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Võimaldab kasutajatel muuta kohandatud teemat</value>
+    <value>Võimaldab kasutajatel valida kohandatud teema</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Veebisaidi vaiketeema, kui pole valitud</value>

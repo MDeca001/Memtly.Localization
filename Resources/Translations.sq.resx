@@ -757,6 +757,9 @@
   <data name="Gallery_Login" xml:space="preserve">
     <value>Login i Galerisë</value>
   </data>
+  <data name="Gallery_Login_Help" xml:space="preserve">
+    <value>Kjo është një galeri e mbrojtur. Ju lutem shkruani kyçin sekret për të shfaqur përmbajtjen e tij.</value>
+  </data>
   <data name="Gallery_Missing_Id" xml:space="preserve">
     <value>Koleksioni Id nuk mund të jetë bosh</value>
   </data>
@@ -1931,7 +1934,7 @@
     <value>Temat</value>
   </data>
   <data name="Settings_Themes_ColourOverrides_Enabled_Help" xml:space="preserve">
-    <value>Lejo përdoruesit të ndryshojnë temën e personalizuar</value>
+    <value>Lejo përdoruesit të zgjedhin temën e personalizuar</value>
   </data>
   <data name="Settings_Themes_Default_Help" xml:space="preserve">
     <value>Tema e paracaktuar e faqes në internet nëse nuk është zgjedhur asnjë</value>
