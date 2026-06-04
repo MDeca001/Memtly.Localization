@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>غیر متصل</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>نیلا</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>آپ کا براڈ بینڈ اس خصوصیت کی حمایت نہیں کرتا</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>اندھیرا</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>تاریک نیلا</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>سبز</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>اندھیرا</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>سیاہ سرخ</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>تاریخ</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>غیر متصل</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>سبز</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>گروپ</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>گریٹنگ اپ لوڈ کرنے میں ناکامی</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>پرنٹ</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>پرنٹ</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>رنگ</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>سرخ</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>لکھی ہوئی کتاب</value>

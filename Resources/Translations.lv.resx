@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Vispārīga informācija</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>Zils</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Jūsu pārlūks neatbalsta šo funkciju</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>Tumšs</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>Tumši zils</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>Tumši zaļa</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>Tumši rozā</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>Tumši sarkans</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Datums</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>Gotify</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>Zaļš</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grupa</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>Neizdevās saņemt gaidāmās augšupielādes</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>Rozā</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portrets</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Nejaušs</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Sarkans</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Reģistrs</value>

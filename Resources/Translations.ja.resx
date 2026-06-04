@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>プロフィール</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>ブルージュ</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>お使いのブラウザは、この機能をサポートしていません</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>ダーク</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>ダークブルー</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>ダークグリーン</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>ダークピンク</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>ダークレッド</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>日程安排</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>ゴッファイ</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>グリーン</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>グループ</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>保留中のアップロードが失敗</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>ピンク</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>ポートレート</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>ランダム</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>レッド</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>会員登録</value>

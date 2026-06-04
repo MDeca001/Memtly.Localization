@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Nền</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>Xanh nước biển</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Trình duyệt của bạn không hỗ trợ tính năng này</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>Tối</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>Xanh nước biển đậm</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>Xanh lá cây tốicolor</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>Hồng đen</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>Đỏ Tối</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Ngày</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>Đã nhận</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>Lục</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Nhóm</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>Thất bại khi được tải lên bị hoãn</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>Điểm</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Thẳng đứng</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Ngẫu nhiên</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Đỏ</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Đăng ký</value>

@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Kontekstas</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>Mėlyna</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Jūsų naršyklė nepalaiko šios funkcijos</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>Tamsus</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>Tamsiai mėlyna</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>Tamsiai žalia</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>Tamsiai rožinė</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>Tamsiai raudona</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Data</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>Gėlytė</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>Žalia</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grupė</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>Nepavyko gauti lauktų įkelmų</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>Rausva</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portretas</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Atsitiktinis</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Raudona</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Registras</value>

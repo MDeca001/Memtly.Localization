@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>พื้นหลัง</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>น้ําเงิน</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>เบราว์เซอร์ของคุณไม่รองรับคุณสมบัตินี้</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>เข้ม</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>สีน้ําเงินเข้ม</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>เขียวเข้มcolor</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>สีชมพูเข้ม</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>สีแดงเข้ม</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>วันที่</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>รับทราบ</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>เขียว</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>กลุ่ม</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>ล้มเหลวในการทําการอัปโหลด</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>สีชมพู</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>ภาพ</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>สุ่ม</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>แดง</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>ลงทะเบียน</value>

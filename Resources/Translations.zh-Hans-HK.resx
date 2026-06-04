@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>背景情况</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>蓝色</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>您的浏览器不支持此特性</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>阴暗</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>暗蓝色</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>暗绿色</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>暗粉红色</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>暗红色</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>日期</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>歌迪丝</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>绿色</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>组</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>获取等待上传失败</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>粉红色</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>外观</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>随机</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>红色</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>登记册</value>

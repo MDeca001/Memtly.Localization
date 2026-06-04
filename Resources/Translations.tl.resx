@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Pinagmulan</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>Asul</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Hindi sinusuportahan ng iyong browser ang bahaging ito</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>Madilim</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>Madilim na Asul</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>Madilim na Berde</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>Madilim na Kulay</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>Madilim na Pula</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Petsa</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>Pagpapagaling</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>Luntian</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grupo</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>Sawi ang pag-set up ngloads</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>Pink</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Larawan</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Random</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Pula</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Pag - aasawa</value>

@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Háttér</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>Kék</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>A böngésző nem támogatja ezt a funkciót</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>Sötét</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>Sötét kék</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>Sötét zöld</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>Sötét rózsaszín</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>Sötét vörös</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Időpont</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>Fórum</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>Zöld</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Csoport</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>A függőben lévő feltöltés nem sikerült</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>Rózsaszín</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portré</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Véletlenszerű</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Piros</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Nyilvántartás</value>

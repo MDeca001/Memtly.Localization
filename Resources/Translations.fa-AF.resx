@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>پس زمینه</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>آبی</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>مرورگر شما از این ویژگی پشتیبانی نمی کند</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>تاریکی تاریک</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>تاریکی آبی</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>تاریکی سبز</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>Dark Pink</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>تاریکی قرمز</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>تاریخ</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>برگرفته از</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>سبز</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>گروه Group</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>شکست در انتظار آپلود</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>صورتی</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>پرتره</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>تصادفی</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>قرمز سرخ</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>ثبت نام</value>

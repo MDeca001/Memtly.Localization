@@ -331,6 +331,9 @@
   <data name="Background_Color_Label" xml:space="preserve">
     <value>Context</value>
   </data>
+  <data name="Blue" xml:space="preserve">
+    <value>Albastru</value>
+  </data>
   <data name="Browser_Does_Not_Support" xml:space="preserve">
     <value>Browser-ul dvs. nu suportă această caracteristică</value>
   </data>
@@ -474,6 +477,18 @@
   </data>
   <data name="Dark" xml:space="preserve">
     <value>Întuneric</value>
+  </data>
+  <data name="DarkBlue" xml:space="preserve">
+    <value>Albastru închis</value>
+  </data>
+  <data name="DarkGreen" xml:space="preserve">
+    <value>Verde închis</value>
+  </data>
+  <data name="DarkPink" xml:space="preserve">
+    <value>Roz închis</value>
+  </data>
+  <data name="DarkRed" xml:space="preserve">
+    <value>Roșu închis</value>
   </data>
   <data name="Date" xml:space="preserve">
     <value>Dată</value>
@@ -844,6 +859,9 @@
   <data name="Gotify" xml:space="preserve">
     <value>Gotify</value>
   </data>
+  <data name="Green" xml:space="preserve">
+    <value>Verde</value>
+  </data>
   <data name="Group" xml:space="preserve">
     <value>Grup</value>
   </data>
@@ -1147,6 +1165,9 @@
   <data name="Pending_Uploads_Failed" xml:space="preserve">
     <value>Eșec la încărcarea în așteptare</value>
   </data>
+  <data name="Pink" xml:space="preserve">
+    <value>Roz</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portret</value>
   </data>
@@ -1179,6 +1200,9 @@
   </data>
   <data name="Random" xml:space="preserve">
     <value>Aleator</value>
+  </data>
+  <data name="Red" xml:space="preserve">
+    <value>Roșu</value>
   </data>
   <data name="Register" xml:space="preserve">
     <value>Registru</value>
