@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Silakan masukkan suatu nama koleksi baru</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>Setidaknya dua galeri diperlukan untuk membuat koleksi</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Pengaturan Koleksi</value>
   </data>
@@ -711,6 +714,9 @@
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Gagal menemukan berkas</value>
+  </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>Gagal mendapatkan daftar galeri</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Gagal mengimpor data</value>

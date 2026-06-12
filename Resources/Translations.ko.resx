@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>새 컬렉션 이름을 입력하십시오</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>적어도 두 개의 갤러리가 컬렉션을 만들 필요</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>수집 설정</value>
   </data>
@@ -711,6 +714,9 @@
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>파일 찾기</value>
+  </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>본문 바로가기</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>데이터를 가져올 실패</value>

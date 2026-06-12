@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Veuillez saisir un nouveau nom de collection</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>Au moins deux galeries sont nécessaires pour créer une collection</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Paramètres de la collection</value>
   </data>
@@ -711,6 +714,9 @@
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Impossible de trouver le fichier</value>
+  </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>Impossible d'obtenir la liste des galeries</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Impossible d'importer les données</value>

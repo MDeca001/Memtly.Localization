@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Please enter a new collection name</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>At least two galleries are needed to create a collection</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Collection Settings</value>
   </data>

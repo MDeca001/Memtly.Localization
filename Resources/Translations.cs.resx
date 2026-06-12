@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Zadejte prosím nový název sbírky</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>K vytvoření kolekce jsou potřeba alespoň dvě galerie</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Nastavení sbírky</value>
   </data>

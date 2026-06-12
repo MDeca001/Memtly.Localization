@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>कृपया एक नया संग्रह नाम दर्ज करें</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>एक संग्रह बनाने के लिए कम से कम दो दीर्घाओं की आवश्यकता होती है</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>संग्रह सेटिंग</value>
   </data>
@@ -711,6 +714,9 @@
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>फाइल खोजने में विफल</value>
+  </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>गैलरी सूची प्राप्त करने में विफल</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>डेटा आयात करने में विफल</value>

@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Cuir isteach ainm nua bailithe</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>Tá dhá ghailearaí ar a laghad ag teastáil chun bailiúchán a chruthú</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Naisc ábhartha eile</value>
   </data>
@@ -711,6 +714,9 @@
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Failed a aimsiú comhad</value>
+  </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>Failed a fháil liosta gailearaí</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Failed chun sonraí a allmhairiú</value>

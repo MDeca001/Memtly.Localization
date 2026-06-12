@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>请输入新的收藏名称</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>创建收藏馆至少需要两个画廊</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>收藏设置</value>
   </data>
@@ -711,6 +714,9 @@
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>找到文件失败</value>
+  </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>获取画廊列表失败</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>导入数据失败</value>

@@ -466,6 +466,9 @@
   <data name="Collection_Name_Hint" xml:space="preserve">
     <value>Vänligen ange ett nytt samlingsnamn</value>
   </data>
+  <data name="Collection_Not_Enough_Galleries" xml:space="preserve">
+    <value>Minst två gallerier behövs för att skapa en samling</value>
+  </data>
   <data name="Collection_Settings" xml:space="preserve">
     <value>Insamlingsinställningar</value>
   </data>
@@ -711,6 +714,9 @@
   </data>
   <data name="Failed_Finding_File" xml:space="preserve">
     <value>Misslyckades med att hitta fil</value>
+  </data>
+  <data name="Failed_Get_Gallery_List" xml:space="preserve">
+    <value>Misslyckades med att få gallerilista</value>
   </data>
   <data name="Failed_Import" xml:space="preserve">
     <value>Underlåten att importera data</value>
