@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Unable to remove the default gallery</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Cannot relink gallery as it is part of a collection</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Change Identity</value>
   </data>

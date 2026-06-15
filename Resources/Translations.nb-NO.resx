@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Kan ikke fjerne standardgalleriet</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Kan ikke koble galleri på nytt som det er en del av en samling</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Endre identitet</value>
   </data>

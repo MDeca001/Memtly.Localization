@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Ezin da galeria lehenetsia kendu</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Ezin da galeria berriro lotu, bilduma baten parte baita</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Aldatu identitatea</value>
   </data>

@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Hindi matanggal ang default gallery</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Hindi maaaring i - relink muli ang galerya habang ito ay bahagi ng isang koleksiyon</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Palitan ang Pagkakakilanlan</value>
   </data>

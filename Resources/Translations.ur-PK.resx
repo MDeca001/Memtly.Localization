@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>ڈی بگ گیلری کو ختم کرنے میں ناکام</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>جیسے کہ یہ مجموعہ کا حصہ ہے۔</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>تبدیل کریں</value>
   </data>

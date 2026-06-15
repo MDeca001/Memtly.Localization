@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Không thể gỡ bỏ nơi trưng bày mặc định</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Không thể liên kết lại phòng trưng bày vì nó là một phần của bộ sưu tập</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Đổi tên</value>
   </data>

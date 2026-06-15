@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>ডিফল্ট গ্যালারি খুলতে ব্যর্থ</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>সংকলনের অংশ রূপে সংগ্রহ করা সম্ভব নয়</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>পরিচয় পরিবর্তন করো</value>
   </data>

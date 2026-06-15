@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Nu s-a putut elimina galeria implicită</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Nu pot reconecta galeria deoarece face parte dintr-o colecție</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Schimbă identitatea</value>
   </data>

@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Tak dapat menghapus galeri baku</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Tidak dapat relink galeri karena itu adalah bagian dari koleksi</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Identitas Perubahan</value>
   </data>

@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>E pamundur heqja e koleksionit të prezgjedhur</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>E pamundur rilidhja e koleksionit si pjesë e një koleksioni</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Ndrysho identitetin</value>
   </data>

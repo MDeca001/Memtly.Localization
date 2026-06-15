@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>기본 갤러리를 제거 할 수없는</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>컬렉션의 일부로 다시 링크 갤러리를 할 수 없습니다</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>ID 변경</value>
   </data>

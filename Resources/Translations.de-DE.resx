@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Unfähig, die Standard-Galerie zu entfernen</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Kann die Galerie nicht neu verlinken, da sie Teil einer Sammlung ist</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Identität ändern</value>
   </data>

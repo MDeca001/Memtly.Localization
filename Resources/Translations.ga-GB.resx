@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Ní féidir a bhaint as an gailearaí réamhshocraithe</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Cannot relink gailearaí mar go bhfuil sé mar chuid de bhailiúchán</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Amharc ar gach eolas</value>
   </data>

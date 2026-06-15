@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>無法移除預設相簿</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>由于相簿是收藏的一部分而無法再連接相簿</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>更改身份</value>
   </data>

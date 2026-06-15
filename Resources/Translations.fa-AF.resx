@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>امکان حذف گالری پیش فرض</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>نمی توان گالری را دوباره لینک کرد زیرا بخشی از یک مجموعه است</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>تغییر هویت</value>
   </data>

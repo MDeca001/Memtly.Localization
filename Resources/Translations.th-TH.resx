@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>ไม่สามารถลบแกลเลอรีปริยายได้</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>ไม่สามารถเชื่อมโยงคลังภาพได้ เนื่องจากมันเป็นส่วนหนึ่งของคลังสื่อ</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>เปลี่ยนการแสดงตัว</value>
   </data>

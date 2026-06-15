@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Kon de standaard galerij niet verwijderen</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Kan galerij niet herkoppelen omdat het deel uitmaakt van een verzameling</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Identiteit wijzigen</value>
   </data>

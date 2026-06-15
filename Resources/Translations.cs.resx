@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>Nelze odstranit výchozí galerii</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>Nelze relinkovat galerii, protože je součástí sbírky</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Změnit identitu</value>
   </data>
