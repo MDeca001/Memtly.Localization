@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Gallery Settings</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>نوع المعرض إلى التصفية</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>معرض الأرملة</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>المجموع</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>النوع</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Umami</value>

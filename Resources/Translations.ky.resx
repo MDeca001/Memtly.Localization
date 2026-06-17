@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Галереялык орнотуулар</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Галереянын түрү</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Зымдуу галерея</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>Жалпы жалпы жалпы сумма</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Тип түрү</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Умами</value>

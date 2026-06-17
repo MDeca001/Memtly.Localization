@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>デフォルトのギャラリーを削除できない</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>コレクションの一部としてギャラリーを再リンクすることはできません</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>アイデンティティの変更</value>
   </data>
@@ -894,6 +897,9 @@
   </data>
   <data name="Gallery_Settings" xml:space="preserve">
     <value>ギャラリー設定</value>
+  </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>ギャラリータイプでフィルタリング</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>ワイプギャラリー</value>
@@ -2181,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>合計:</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>タイプ:</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>宇都宮</value>

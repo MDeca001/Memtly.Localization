@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Nastavení galerie</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Typ galerie pro filtrování</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Galerie stírání</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>Celkem</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Typ</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Umami</value>

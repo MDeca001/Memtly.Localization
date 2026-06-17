@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>گالری تنظیمات</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>نوع گالری برای فیلتر کردن</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>گالری Wipe</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>مجموع</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>نوع</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>امت</value>

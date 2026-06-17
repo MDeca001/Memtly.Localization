@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>图片库设置</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>要过滤的相簿型態由</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>擦除图片库</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>共计</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>類型</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>有美</value>

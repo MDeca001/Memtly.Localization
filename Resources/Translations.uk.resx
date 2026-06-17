@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Налаштування галереї</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Тип галереї для фільтра по</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Відео галерея</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>Всього</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Тип</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Умами</value>

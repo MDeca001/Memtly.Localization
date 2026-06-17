@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Settings συλλογής</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Τύπος συλλογής για να φιλτράρετε</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Γκαλερί σκουπίσματος</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>Σύνολο</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Τύπος</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Ουμάμι</value>

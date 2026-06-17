@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>गैलरी सेटिंग्स</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>गैलरी प्रकार द्वारा फ़िल्टर करने के लिए</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>वाइप गैलरी</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>कुल</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>प्रकार</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>उम्मा</value>

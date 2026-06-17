@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Nastavenie galérie</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Typ galérie na filtrovanie</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Galéria</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>Spolu</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Typ</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Umami</value>

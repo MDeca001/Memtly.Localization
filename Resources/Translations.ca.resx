@@ -403,6 +403,9 @@
   <data name="Cannot_Delete_Default_Gallery" xml:space="preserve">
     <value>No s' ha pogut eliminar la galeria per omissió</value>
   </data>
+  <data name="Cannot_Relink_Collection_Member" xml:space="preserve">
+    <value>No es pot tornar a refer a la galeria ja que forma part d' una col· lecció</value>
+  </data>
   <data name="Change_Identity" xml:space="preserve">
     <value>Canvia la identitat</value>
   </data>
@@ -894,6 +897,9 @@
   </data>
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Arranjament de la galeria</value>
+  </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Tipus de galeria a filtrar per</value>
   </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Esborrat Gallery</value>
@@ -2181,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>Total</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Tipus</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Umamijapan. kgm</value>

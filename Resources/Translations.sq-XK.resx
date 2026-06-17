@@ -898,6 +898,9 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Rregullimet e koleksionit</value>
   </data>
+  <data name="Gallery_Type_Help" xml:space="preserve">
+    <value>Lloji i koleksionit nga filtro</value>
+  </data>
   <data name="Gallery_Wipe" xml:space="preserve">
     <value>Fshi galerinë</value>
   </data>
@@ -2184,6 +2187,9 @@
   </data>
   <data name="Total" xml:space="preserve">
     <value>Gjithsej</value>
+  </data>
+  <data name="Type" xml:space="preserve">
+    <value>Lloji</value>
   </data>
   <data name="Umami" xml:space="preserve">
     <value>Umami</value>
