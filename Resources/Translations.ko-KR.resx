@@ -895,6 +895,9 @@
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>성공적으로 relinked 갤러리</value>
   </data>
+  <data name="Gallery_Selection" xml:space="preserve">
+    <value>갤러리 선택</value>
+  </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>갤러리 선택</value>
   </data>
@@ -1264,6 +1267,9 @@
   <data name="Pink" xml:space="preserve">
     <value>핑크</value>
   </data>
+  <data name="Please_Select_Gallery" xml:space="preserve">
+    <value>본문 바로가기</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>포트레이트(Portrait)</value>
   </data>
@@ -1488,9 +1494,6 @@
   </data>
   <data name="Select_All" xml:space="preserve">
     <value>모두 보기</value>
-  </data>
-  <data name="Select_Gallery" xml:space="preserve">
-    <value>본문 바로가기</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>제품정보</value>
@@ -1785,6 +1788,12 @@
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>중복 방지</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
+    <value>일단 품목이 그룹화되어야 하는지 검사</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
+    <value>기본 QR 그룹</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
     <value>주문이 나타나는 스캐너</value>

@@ -895,6 +895,9 @@
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>成功重新链接画廊</value>
   </data>
+  <data name="Gallery_Selection" xml:space="preserve">
+    <value>图片库选择</value>
+  </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>图片库选择器</value>
   </data>
@@ -1264,6 +1267,9 @@
   <data name="Pink" xml:space="preserve">
     <value>粉红色</value>
   </data>
+  <data name="Please_Select_Gallery" xml:space="preserve">
+    <value>请选择一个相册</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>外观</value>
   </data>
@@ -1488,9 +1494,6 @@
   </data>
   <data name="Select_All" xml:space="preserve">
     <value>全部选择</value>
-  </data>
-  <data name="Select_Gallery" xml:space="preserve">
-    <value>请选择一个相册</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>发送</value>
@@ -1785,6 +1788,12 @@
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>防止复制</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
+    <value>扫描后,哪些项目应按</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
+    <value>默认 QR 组</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
     <value>一旦扫描器显示物品的顺序</value>

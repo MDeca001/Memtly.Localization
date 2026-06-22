@@ -895,6 +895,9 @@
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Erfolgreich verlinkte Galerie</value>
   </data>
+  <data name="Gallery_Selection" xml:space="preserve">
+    <value>Galerie Auswahl</value>
+  </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Ausgewählte Galerie</value>
   </data>
@@ -1264,6 +1267,9 @@
   <data name="Pink" xml:space="preserve">
     <value>Rosa</value>
   </data>
+  <data name="Please_Select_Gallery" xml:space="preserve">
+    <value>Bitte wählen Sie eine Galerie</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portrait</value>
   </data>
@@ -1488,9 +1494,6 @@
   </data>
   <data name="Select_All" xml:space="preserve">
     <value>Alle auswählen</value>
-  </data>
-  <data name="Select_Gallery" xml:space="preserve">
-    <value>Bitte wählen Sie eine Galerie</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Senden</value>
@@ -1785,6 +1788,12 @@
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>Duplikate verhindern</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
+    <value>Einmal gescannt, was Elemente gruppiert werden sollten</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
+    <value>Standard QR Group</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
     <value>Sobald Scanner, welche Bestellung sollte Artikel erscheinen</value>

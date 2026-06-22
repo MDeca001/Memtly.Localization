@@ -895,6 +895,9 @@
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Pomyślnie odnowiona galeria</value>
   </data>
+  <data name="Gallery_Selection" xml:space="preserve">
+    <value>Wybór galerii</value>
+  </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Wybór galerii</value>
   </data>
@@ -1264,6 +1267,9 @@
   <data name="Pink" xml:space="preserve">
     <value>Różowy</value>
   </data>
+  <data name="Please_Select_Gallery" xml:space="preserve">
+    <value>Proszę wybrać galerię</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portret</value>
   </data>
@@ -1488,9 +1494,6 @@
   </data>
   <data name="Select_All" xml:space="preserve">
     <value>Wybierz wszystkie</value>
-  </data>
-  <data name="Select_Gallery" xml:space="preserve">
-    <value>Proszę wybrać galerię</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Wysyłanie</value>
@@ -1785,6 +1788,12 @@
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>Zapobieganie duplikatom</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
+    <value>Po zeskanowaniu co elementy powinny być pogrupowane przez</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
+    <value>Domyślna grupa QR</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
     <value>Po skanowaniu jakie zamówienie powinny pojawić się elementy</value>

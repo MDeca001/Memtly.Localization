@@ -895,6 +895,9 @@
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Úspešne prepojená galéria</value>
   </data>
+  <data name="Gallery_Selection" xml:space="preserve">
+    <value>Výber galérie</value>
+  </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Výber galérií</value>
   </data>
@@ -1264,6 +1267,9 @@
   <data name="Pink" xml:space="preserve">
     <value>Ružové</value>
   </data>
+  <data name="Please_Select_Gallery" xml:space="preserve">
+    <value>Prosím vyberte galériu</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Portrét</value>
   </data>
@@ -1488,9 +1494,6 @@
   </data>
   <data name="Select_All" xml:space="preserve">
     <value>Vybrať všetko</value>
-  </data>
-  <data name="Select_Gallery" xml:space="preserve">
-    <value>Prosím vyberte galériu</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Posielam</value>
@@ -1785,6 +1788,12 @@
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>Zabrániť duplicitám</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
+    <value>Po naskenovaní, čo by malo byť zoskupené</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
+    <value>Štandardná QR skupina</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
     <value>Akonáhle skener, aké poradie by sa malo objaviť položky</value>

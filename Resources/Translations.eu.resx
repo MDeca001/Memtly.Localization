@@ -895,6 +895,9 @@
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>Galeria ongi estekatua</value>
   </data>
+  <data name="Gallery_Selection" xml:space="preserve">
+    <value>Galeriaren hautapena</value>
+  </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>Galeria-hautatzailea</value>
   </data>
@@ -1264,6 +1267,9 @@
   <data name="Pink" xml:space="preserve">
     <value>Arrosa</value>
   </data>
+  <data name="Please_Select_Gallery" xml:space="preserve">
+    <value>Hautatu galeria bat</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>Erretratua</value>
   </data>
@@ -1488,9 +1494,6 @@
   </data>
   <data name="Select_All" xml:space="preserve">
     <value>Hautatu dena</value>
-  </data>
-  <data name="Select_Gallery" xml:space="preserve">
-    <value>Hautatu galeria bat</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>Bidaltzea</value>
@@ -1785,6 +1788,12 @@
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>Saihestu bikoiztuak</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
+    <value>Behin eskaneatuta zer elementu elkartu behar diren</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
+    <value>QR talde lehenetsia</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
     <value>Eskanerraren ondoren, zein ordenatan agertuko diren elementuak</value>

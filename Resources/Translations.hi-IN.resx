@@ -895,6 +895,9 @@
   <data name="Gallery_Relink_Success" xml:space="preserve">
     <value>सफलतापूर्वक रीलिंक्ड गैलरी</value>
   </data>
+  <data name="Gallery_Selection" xml:space="preserve">
+    <value>गैलरी चयन</value>
+  </data>
   <data name="Gallery_Selector" xml:space="preserve">
     <value>गैलरी चयनकर्ता</value>
   </data>
@@ -1264,6 +1267,9 @@
   <data name="Pink" xml:space="preserve">
     <value>गुलाबी</value>
   </data>
+  <data name="Please_Select_Gallery" xml:space="preserve">
+    <value>कृपया गैलरी का चयन करें</value>
+  </data>
   <data name="Portrait" xml:space="preserve">
     <value>पोर्ट्रेट</value>
   </data>
@@ -1488,9 +1494,6 @@
   </data>
   <data name="Select_All" xml:space="preserve">
     <value>सभी का चयन करें</value>
-  </data>
-  <data name="Select_Gallery" xml:space="preserve">
-    <value>कृपया गैलरी का चयन करें</value>
   </data>
   <data name="Sending" xml:space="preserve">
     <value>भेजना</value>
@@ -1785,6 +1788,12 @@
   </data>
   <data name="Settings_Gallery_PreventDuplicates_Label" xml:space="preserve">
     <value>डुप्लिकेट को रोकें</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Help" xml:space="preserve">
+    <value>एक बार स्कैन किया गया था कि किस आइटम को समूहीकृत किया जाना चाहिए</value>
+  </data>
+  <data name="Settings_Gallery_QRCodeDefaultGroup_Label" xml:space="preserve">
+    <value>डिफ़ॉल्ट QR समूह</value>
   </data>
   <data name="Settings_Gallery_QRCodeDefaultSort_Help" xml:space="preserve">
     <value>एक बार स्कैनर क्या आदेश आइटम दिखाई देना चाहिए</value>
