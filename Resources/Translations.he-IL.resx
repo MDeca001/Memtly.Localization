@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>הגדרות גלריה</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>גלריה</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>נכשל לחלוק את הגלריה</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>גלריה משותפת מוצלחת</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>סוג הגלריה לסינון</value>
   </data>

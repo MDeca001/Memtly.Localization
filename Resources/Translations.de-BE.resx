@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galerie-Einstellungen</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Galerie</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Versäumt, Galerie zu teilen</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Erfolgreich geteilte Galerie</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerietyp nach Filter</value>
   </data>

@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>갤러리 설정</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>공유 갤러리</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>본문 바로가기</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>성공적으로 공유 갤러리</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>갤러리 유형 필터 로</value>
   </data>

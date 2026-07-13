@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Settings συλλογής</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Μοιραστείτε Gallery</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Αποτυχία ανταλλαγής συλλογής</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Επιτυχής κοινόχρηστη γκαλερί</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Τύπος συλλογής για να φιλτράρετε</value>
   </data>

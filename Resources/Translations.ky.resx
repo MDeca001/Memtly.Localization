@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Галереялык орнотуулар</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Акциялык галерея</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Галереяны бөлүшпөгөн</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Галереяны ийгиликтүү бөлүшүү</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Галереянын түрү</value>
   </data>

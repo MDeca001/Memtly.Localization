@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Pengaturan Galeri</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Berbagi Galeri</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Gagal berbagi galeri</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Galeri yang sukses dibagi</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Jenis galeri untuk menyaring oleh</value>
   </data>

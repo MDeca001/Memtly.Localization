@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galerijas iestatījumi</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Kopīgot galeriju</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Neizdevās kopīgot galeriju</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Veiksmīgi kopīgota galerija</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerijas tips, ko filtrēt</value>
   </data>

@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Gallerian asetukset</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Jaa Galleria</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Galleriaa ei voitu jakaa</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Onnistunut jaettu galleria</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Suodatettavan gallerian tyyppi</value>
   </data>

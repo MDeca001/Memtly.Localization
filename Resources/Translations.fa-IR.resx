@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>گالری تنظیمات</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>گالری Share</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>شکست برای به اشتراک گذاشتن گالری</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>موفق به اشتراک گذاری گالری</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>نوع گالری برای فیلتر کردن</value>
   </data>

@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Mga Pakikipagsapalaran sa Gallery</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Magbahagi ng Gallery</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Sawi ang pagbahagi ng galerya</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Matagumpay na pinagsaluhan ang galerya</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallery uri ng pansala sa pamamagitan ng</value>
   </data>

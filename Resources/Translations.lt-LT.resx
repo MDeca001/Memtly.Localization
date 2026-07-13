@@ -910,6 +910,12 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galerija</value>
   </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Nepavyko pasidalinti galerija</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Sėkmingai dalijamasi galerija</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>@ info: whatsthis</value>
   </data>

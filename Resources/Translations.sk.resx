@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Nastavenie galérie</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Zdieľať galériu</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Zlyhalo zdieľanie galérie</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Úspešne zdieľaná galéria</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Typ galérie na filtrovanie</value>
   </data>

@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Qeydiyyat</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Bakı</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Gallery</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Ətraflı paylaşılan gallery</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Qeydiyyat növü</value>
   </data>

@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galerii seadistused</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Jaga galeriid</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Galerii jagamine nurjus</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Edukalt jagatud galerii</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galerii tüüp, mille järgi filtreerida</value>
   </data>

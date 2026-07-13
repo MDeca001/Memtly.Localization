@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galéria beállításai</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Galéria megosztása</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Nem sikerült megosztani a galériát</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Sikeresen megosztott galéria</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galéria típus szűrés által</value>
   </data>

@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>গ্যালারির বৈশিষ্ট্য</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>গ্যালারি শেয়ার করুন</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>সংকলন শেয়ার করতে ব্যর্থ</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>সাফল্যের সাথে শেয়ার করা হয়েছে</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ফিল্টার করার জন্য চিহ্নিত গ্যালারির ধরন</value>
   </data>

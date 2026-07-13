@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Rregullimet e koleksionit</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Shpërnda</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Grumbullimi dështoi</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Galeri e përbashkët me sukses</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Lloji i koleksionit nga filtro</value>
   </data>

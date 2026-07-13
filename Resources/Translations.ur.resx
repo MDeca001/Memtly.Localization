@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>گلی ترتیبات</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>شیئر گیلری</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>گیلری میں شامل ہونے میں ناکامی</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>کامیاب گیلری</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>فلٹر کرنے کے لیے گیلری قسم</value>
   </data>

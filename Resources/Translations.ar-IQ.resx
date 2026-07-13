@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Gallery Settings</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Share Gallery</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>فشل في المشاركة في المعرض</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>معرض مشترك ناجح</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>نوع المعرض إلى التصفية</value>
   </data>

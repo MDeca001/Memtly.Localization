@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>ギャラリー設定</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>シェアギャラリー</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>ギャラリーをシェアできなかった</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>共有ギャラリー</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ギャラリータイプでフィルタリング</value>
   </data>

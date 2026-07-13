@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galleri indstillinger</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Del galleri</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Kunne ikke dele galleri</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Succesfuldt delt galleri</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galleri type til at filtrere ved</value>
   </data>

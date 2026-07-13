@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>ตั้งค่าคลังภาพ</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>การใช้งานแกลเลอรีร่วมกัน</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>การใช้แกลเลอรีร่วมกันล้มเหลว</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>คลังภาพที่ใช้ร่วมกันสําเร็จแล้ว</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>ชนิดของแกลเลอรีภาพที่จะกรอง</value>
   </data>

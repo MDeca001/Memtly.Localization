@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galleriinställningar</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Dela Galleri</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Misslyckades med att dela galleri</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Framgångsrikt delat galleri</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Gallerityp för att filtrera efter</value>
   </data>

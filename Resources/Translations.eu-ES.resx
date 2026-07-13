@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Galeriaren ezarpenak</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Partekatu galeria</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Huts egin du galeria partekatzean</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Arrakastaz partekatutako galeria</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Galeria mota iragazteko</value>
   </data>

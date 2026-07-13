@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Perpustakaan Galeri</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Galeri Kongsi Klinik</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Gagal berbagi galeri</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Kejayaan galeri terbagi</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Jenis Galeri Galeri Galeri untuk disaring oleh</value>
   </data>
@@ -1212,6 +1221,9 @@
   </data>
   <data name="Or" xml:space="preserve">
     <value>Or</value>
+  </data>
+  <data name="Owner" xml:space="preserve">
+    <value>Pemilik</value>
   </data>
   <data name="Password_Reset_Changed_Message" xml:space="preserve">
     <value>Kata sandi Anda sekarang telah ditetapkan ulang. Jika Anda tidak meminta reset kata sandi, silakan hubungi administrator segera.</value>

@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Thiết lập nơi trưng bày</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Gallery</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Lỗi chia sẻ nơi trưng bày</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Phòng trưng bày chia sẻ thành công</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Kiểu nơi trưng bày cần lọc theo</value>
   </data>

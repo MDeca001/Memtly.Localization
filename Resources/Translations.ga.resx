@@ -910,6 +910,15 @@
   <data name="Gallery_Settings" xml:space="preserve">
     <value>Gearáin agus Cur i bhFeidhm</value>
   </data>
+  <data name="Gallery_Share" xml:space="preserve">
+    <value>Comhroinn an leathanach</value>
+  </data>
+  <data name="Gallery_Share_Failed" xml:space="preserve">
+    <value>Failed a roinnt gailearaí</value>
+  </data>
+  <data name="Gallery_Share_Success" xml:space="preserve">
+    <value>Gailearaí roinnte rathúil</value>
+  </data>
   <data name="Gallery_Type_Help" xml:space="preserve">
     <value>Cineál Gailearaí scagaire ag</value>
   </data>
