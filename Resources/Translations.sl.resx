@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Seznam galerije ni uspel</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Ni moč dobiti seznama delnic</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Ni moč dobiti uporabniškega seznama</value>
   </data>

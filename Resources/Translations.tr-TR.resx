@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Galeri listesini almak için başarısız oldu</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Hisse senetleri almak için başarısız oldu</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Kullanıcı listesini almak için başarısız oldu</value>
   </data>

@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Galerii nimekirja hankimine nurjus</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Aktsiate nimekirja hankimine nurjus</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Kasutajate nimekirja hankimine nurjus</value>
   </data>

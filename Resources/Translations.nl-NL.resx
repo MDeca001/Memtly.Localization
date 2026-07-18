@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Ophalen van galerielijst mislukt</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Ophalen van lijst met aandelen is mislukt</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Ophalen gebruikerslijst mislukt</value>
   </data>

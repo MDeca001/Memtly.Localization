@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Gagal mendapatkan daftar galeri</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Gagal mendapatkan daftar saham</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Gagal mendapat daftar pengguna</value>
   </data>

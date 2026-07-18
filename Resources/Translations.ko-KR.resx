@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>본문 바로가기</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>공유 목록을 얻기 위해 실패</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>사용자 목록을 얻기 위해 실패</value>
   </data>

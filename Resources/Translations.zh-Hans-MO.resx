@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>获取画廊列表失败</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>获取共享列表失败</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>获取用户列表失败</value>
   </data>

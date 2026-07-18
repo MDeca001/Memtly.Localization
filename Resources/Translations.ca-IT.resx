@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Ha fallat en obtenir la llista de la galeria</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Ha fallat en obtenir la llista de recursos compartits</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Ha fallat en obtenir la llista d' usuaris</value>
   </data>

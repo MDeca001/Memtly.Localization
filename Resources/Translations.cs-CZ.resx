@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Nepodařilo se získat seznam galerie</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Nepodařilo se získat seznam akcií</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Nepodařilo se získat seznam uživatelů</value>
   </data>

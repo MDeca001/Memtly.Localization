@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>ล้มเหลวในการรับรายการคลังภาพ</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>ล้มเหลวในการรับรายการหุ้น</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>ล้มเหลวในการรับรายการผู้ใช้</value>
   </data>

@@ -304,6 +304,9 @@
   <data name="Audit_Severity_Help" xml:space="preserve">
     <value>An íosleibhéal logála a thaispeáint</value>
   </data>
+  <data name="Audit_SharedGallery" xml:space="preserve">
+    <value>Gailearaí comhroinnte leis an úsáideoir</value>
+  </data>
   <data name="Audit_UnfrozeUser" xml:space="preserve">
     <value>Úsáideoir Unfroze</value>
   </data>
@@ -732,6 +735,9 @@
   </data>
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Failed a fháil liosta gailearaí</value>
+  </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Failed a fháil liosta scaireanna</value>
   </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Failed a fháil liosta úsáideora</value>

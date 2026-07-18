@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Failed to get gallery list</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Failed to get shares list</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Failed to get user list</value>
   </data>

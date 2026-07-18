@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Gallery siyahısı almaq</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Paylar siyahısı almaq</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Istifadəçi siyahısı almaq</value>
   </data>

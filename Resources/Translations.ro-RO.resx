@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Eșec la obținerea listei de galerii</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>A eșuat obținerea listei acțiunilor</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>A eșuat obținerea listei de utilizatori</value>
   </data>

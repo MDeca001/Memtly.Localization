@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Marrja e listës së koleksionit dështoi</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Gabim gjatë marrjes së listës së aksioneve</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Marrja e listës së përdoruesve dështoi</value>
   </data>

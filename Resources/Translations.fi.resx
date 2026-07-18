@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>Gallerialistaa ei voitu saada</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>Osakeluettelon saaminen epäonnistui</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>Käyttäjäluettelon saaminen epäonnistui</value>
   </data>

@@ -736,6 +736,9 @@
   <data name="Failed_Get_Gallery_List" xml:space="preserve">
     <value>সংকলনের তালিকা প্রাপ্ত করতে ব্যর্থ</value>
   </data>
+  <data name="Failed_Get_Share_List" xml:space="preserve">
+    <value>শেয়ার তালিকা প্রাপ্ত করতে ব্যর্থ</value>
+  </data>
   <data name="Failed_Get_User_List" xml:space="preserve">
     <value>ব্যবহারকারীর তালিকা প্রাপ্ত করতে ব্যর্থ</value>
   </data>
